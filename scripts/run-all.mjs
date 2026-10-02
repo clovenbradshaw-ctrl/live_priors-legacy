@@ -43,6 +43,7 @@ const SCRIPTS = [
   { name: 'storyweaver', file: 'fetch-storyweaver.mjs', desc: 'StoryWeaver stories (CC BY)' },
   { name: 'african-storybook', file: 'fetch-african-storybook.mjs', desc: 'African Storybook (CC BY)' },
   { name: 'archive-media', file: 'fetch-archive-media.mjs', desc: 'Internet Archive media metadata' },
+  { name: 'chat-logs', file: 'fetch-chat-logs.mjs', desc: 'Real human chat logs (SMS, IRC, email, Chinese chat)' },
 ];
 
 function parseArgs() {

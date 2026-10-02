@@ -36,8 +36,9 @@ are not mistaken for empty documents.
 | 16. Organic/Community | 10 | ⬜ | Ganjoor not yet scripted. StoryWeaver and African Storybook are pulled, but as children's books, not organic/community text — see category 18 below |
 | 17. Formal Algebraic | 11 | ⬜ | All catalogued, none fetched (PDFs/images/specialized formats) |
 | 18. Children's Books *(added, not in the original 17)* | 3 | ⚠️ 38 documents, pilot | Global Digital Library + StoryWeaver (merged platform) and African Storybook, across 17 languages. Bloom Library not pulled — gated on Hugging Face, needs a human to accept terms and supply a token. Exempt from the 600-word floor — see `18-childrens-books/ATTRIBUTION.md` |
+| 19. Organic/Community — real human chat *(added, not in the original 17)* | 5 | ✅ **297 documents** | Real, unedited human typing — SMS, IRC support chat, workplace email, Weibo conversation — in en/zh/de/es/it. See `19-organic-community/README.md` and `ATTRIBUTION.md` |
 
-**Total:** 2,078 documents at or above the 600-word floor, plus 38 children's books exempt from it (2,116 total).
+**Total:** 3,071 documents scanned by the floor gate, **2,997 at or above** the 600-word floor (including **297 real-human chat-log documents** in the new `19-organic-community` register, added 2026-10-01), plus 38 children's books exempt from the floor. The remaining 74 under-floor files are pre-existing and are pruned by `run-all.mjs`'s build step.
 
 ## Fetched Content Details
 
@@ -101,6 +102,29 @@ Every fetched source also carries a `*.structure.json` outline
 (`scripts/extract-source-structure.mjs`, `SourceStructure@1`) splitting the
 raw bytes on the source's own delimiters — see
 `digested/STRUCTURE-FROM-BYTES-FINDING.md`.
+
+### 19. Organic/Community — real human chat logs (added 2026-10-01)
+
+The register the corpus had no voice for: **people typing at each other**,
+with typos, slang and keyboard fumbles, in the informal registers the formal
+sources never carry. Built by `scripts/fetch-chat-logs.mjs`, which aggregates
+short messages into documents that clear the 600-word floor — one person's SMS
+for a period, one IRC channel-day, one conversation thread, one mailbox's
+emails for a month — the same consolidation
+`consolidate-media-catalogs.mjs` applies to short per-item media metadata.
+
+| subdir | contents |
+|---|---|
+| `nus-sms/en/`, `nus-sms/zh/` | Real personal SMS contributed by volunteers (mostly Singapore students) — Singlish, abbreviations, typos. 55,835 English + 31,465 Chinese messages, grouped by contributor-year. Research use; cite Chen & Kan (2013). Contributor IDs are anonymous |
+| `cosem/` | Corpus of Singapore English Messages — ~900k lines of online text messages, scrubbed/anonymized, grouped by conversation. Cite Gonzales et al. (2021) |
+| `ubuntu-irc/` | Ubuntu IRC support-channel logs served publicly by Canonical, 2004-2015 — two sampled days per channel-year, `#ubuntu`-family plus `-de/-es/-it/-pt/-zh` channels |
+| `enron/` | Real workplace emails 1998-2002 released by FERC during the Enron investigation — public domain (CMU 2015 tarball, mirror `SnowZeng/enron_mail`), grouped by mailbox-month |
+| `lccc/` | Large-scale Cleaned Chinese Conversation (MIT, thu-coai) — real Weibo/Douban/PTT conversation, 40 batched documents |
+
+Every document carries YAML frontmatter (source, language, period, license,
+grouping) and is recorded in `manifests/chat-logs-manifest.json` — including
+everything fetched but rejected (404s, under-floor batches, per-source caps).
+Rights notes for each source are in `19-organic-community/ATTRIBUTION.md`.
 
 ### 5. Academic Papers
 

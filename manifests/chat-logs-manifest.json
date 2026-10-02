@@ -1,0 +1,4680 @@
+{
+  "source": "NUS SMS Corpus, CoSEM, Ubuntu IRC logs (irclogs.ubuntu.com), Enron email corpus (FERC/CMU), LCCC (thu-coai)",
+  "purpose": "Real, unedited human typing — typos, slang, informal register — across languages and time periods, as reading material for the corpus's language priors.",
+  "fetched_at": "2026-10-02T03:45:52.391Z",
+  "documents": [
+    {
+      "source": "nus-sms",
+      "lang": "en",
+      "contributor": "Tao Chen",
+      "year": "2009",
+      "messages": 92,
+      "words": 1501,
+      "file": "19-organic-community/nus-sms/en/Tao-Chen-2009-000.txt"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "en",
+      "contributor": "Tao Chen",
+      "year": "2009",
+      "messages": 67,
+      "words": 1368,
+      "file": "19-organic-community/nus-sms/en/Tao-Chen-2009-001.txt"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "en",
+      "contributor": "Tao Chen",
+      "year": "2010",
+      "messages": 275,
+      "words": 1503,
+      "file": "19-organic-community/nus-sms/en/Tao-Chen-2010-000.txt"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "en",
+      "contributor": "Tao Chen",
+      "year": "2010",
+      "messages": 206,
+      "words": 1519,
+      "file": "19-organic-community/nus-sms/en/Tao-Chen-2010-001.txt"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "en",
+      "contributor": "Tao Chen",
+      "year": "2010",
+      "messages": 202,
+      "words": 1509,
+      "file": "19-organic-community/nus-sms/en/Tao-Chen-2010-002.txt"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "en",
+      "contributor": "Tao Chen",
+      "year": "2010",
+      "messages": 188,
+      "words": 1504,
+      "file": "19-organic-community/nus-sms/en/Tao-Chen-2010-003.txt"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "en",
+      "contributor": "Tao Chen",
+      "year": "2010",
+      "messages": 164,
+      "words": 1505,
+      "file": "19-organic-community/nus-sms/en/Tao-Chen-2010-004.txt"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "en",
+      "contributor": "Tao Chen",
+      "year": "2010",
+      "messages": 165,
+      "words": 1498,
+      "file": "19-organic-community/nus-sms/en/Tao-Chen-2010-005.txt"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "en",
+      "contributor": "Tao Chen",
+      "year": "2010",
+      "messages": 149,
+      "words": 1515,
+      "file": "19-organic-community/nus-sms/en/Tao-Chen-2010-006.txt"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "en",
+      "contributor": "Tao Chen",
+      "year": "2010",
+      "messages": 98,
+      "words": 1507,
+      "file": "19-organic-community/nus-sms/en/Tao-Chen-2010-007.txt"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "en",
+      "contributor": "Tao Chen",
+      "year": "2010",
+      "messages": 144,
+      "words": 1500,
+      "file": "19-organic-community/nus-sms/en/Tao-Chen-2010-008.txt"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "en",
+      "contributor": "Tao Chen",
+      "year": "2010",
+      "messages": 144,
+      "words": 1517,
+      "file": "19-organic-community/nus-sms/en/Tao-Chen-2010-009.txt"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "en",
+      "contributor": "Tao Chen",
+      "year": "2010",
+      "messages": 72,
+      "words": 1501,
+      "file": "19-organic-community/nus-sms/en/Tao-Chen-2010-010.txt"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "en",
+      "contributor": "Tao Chen",
+      "year": "2010",
+      "messages": 94,
+      "words": 1508,
+      "file": "19-organic-community/nus-sms/en/Tao-Chen-2010-011.txt"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "en",
+      "contributor": "Tao Chen",
+      "year": "2010",
+      "messages": 95,
+      "words": 1502,
+      "file": "19-organic-community/nus-sms/en/Tao-Chen-2010-012.txt"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "en",
+      "contributor": "Tao Chen",
+      "year": "2010",
+      "messages": 125,
+      "words": 1501,
+      "file": "19-organic-community/nus-sms/en/Tao-Chen-2010-013.txt"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "en",
+      "contributor": "Tao Chen",
+      "year": "2010",
+      "messages": 234,
+      "words": 1500,
+      "file": "19-organic-community/nus-sms/en/Tao-Chen-2010-014.txt"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "en",
+      "contributor": "Tao Chen",
+      "year": "2010",
+      "messages": 170,
+      "words": 1583,
+      "file": "19-organic-community/nus-sms/en/Tao-Chen-2010-015.txt"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "en",
+      "contributor": "Tao Chen",
+      "year": "2010",
+      "messages": 106,
+      "words": 1501,
+      "file": "19-organic-community/nus-sms/en/Tao-Chen-2010-016.txt"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "en",
+      "contributor": "Tao Chen",
+      "year": "2010",
+      "messages": 93,
+      "words": 1509,
+      "file": "19-organic-community/nus-sms/en/Tao-Chen-2010-017.txt"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "en",
+      "contributor": "Tao Chen",
+      "year": "2010",
+      "messages": 88,
+      "words": 1504,
+      "file": "19-organic-community/nus-sms/en/Tao-Chen-2010-018.txt"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "en",
+      "contributor": "Tao Chen",
+      "year": "2010",
+      "messages": 194,
+      "words": 1499,
+      "file": "19-organic-community/nus-sms/en/Tao-Chen-2010-019.txt"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "en",
+      "contributor": "Tao Chen",
+      "year": "2010",
+      "messages": 124,
+      "words": 1508,
+      "file": "19-organic-community/nus-sms/en/Tao-Chen-2010-020.txt"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "en",
+      "contributor": "Tao Chen",
+      "year": "2010",
+      "messages": 98,
+      "words": 1500,
+      "file": "19-organic-community/nus-sms/en/Tao-Chen-2010-021.txt"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "en",
+      "contributor": "Tao Chen",
+      "year": "2010",
+      "messages": 173,
+      "words": 1501,
+      "file": "19-organic-community/nus-sms/en/Tao-Chen-2010-022.txt"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "zh",
+      "contributor": "Tao Chen",
+      "year": "2008",
+      "messages": 153,
+      "words": 1506,
+      "file": "19-organic-community/nus-sms/zh/Tao-Chen-2008-000.txt"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "zh",
+      "contributor": "Tao Chen",
+      "year": "2008",
+      "messages": 133,
+      "words": 1508,
+      "file": "19-organic-community/nus-sms/zh/Tao-Chen-2008-001.txt"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "zh",
+      "contributor": "Tao Chen",
+      "year": "2008",
+      "messages": 119,
+      "words": 1534,
+      "file": "19-organic-community/nus-sms/zh/Tao-Chen-2008-002.txt"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "zh",
+      "contributor": "Tao Chen",
+      "year": "2008",
+      "messages": 178,
+      "words": 1511,
+      "file": "19-organic-community/nus-sms/zh/Tao-Chen-2008-003.txt"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "zh",
+      "contributor": "Tao Chen",
+      "year": "2008",
+      "messages": 163,
+      "words": 1513,
+      "file": "19-organic-community/nus-sms/zh/Tao-Chen-2008-004.txt"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "zh",
+      "contributor": "Tao Chen",
+      "year": "2008",
+      "messages": 191,
+      "words": 1513,
+      "file": "19-organic-community/nus-sms/zh/Tao-Chen-2008-005.txt"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "zh",
+      "contributor": "Tao Chen",
+      "year": "2008",
+      "messages": 277,
+      "words": 2014,
+      "file": "19-organic-community/nus-sms/zh/Tao-Chen-2008-006.txt"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "zh",
+      "contributor": "Tao Chen",
+      "year": "2009",
+      "messages": 94,
+      "words": 1495,
+      "file": "19-organic-community/nus-sms/zh/Tao-Chen-2009-000.txt"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "zh",
+      "contributor": "Tao Chen",
+      "year": "2009",
+      "messages": 80,
+      "words": 1517,
+      "file": "19-organic-community/nus-sms/zh/Tao-Chen-2009-001.txt"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "zh",
+      "contributor": "Tao Chen",
+      "year": "2009",
+      "messages": 110,
+      "words": 1500,
+      "file": "19-organic-community/nus-sms/zh/Tao-Chen-2009-002.txt"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "zh",
+      "contributor": "Tao Chen",
+      "year": "2009",
+      "messages": 137,
+      "words": 1511,
+      "file": "19-organic-community/nus-sms/zh/Tao-Chen-2009-003.txt"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "zh",
+      "contributor": "Tao Chen",
+      "year": "2009",
+      "messages": 111,
+      "words": 1523,
+      "file": "19-organic-community/nus-sms/zh/Tao-Chen-2009-004.txt"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "zh",
+      "contributor": "Tao Chen",
+      "year": "2009",
+      "messages": 130,
+      "words": 1511,
+      "file": "19-organic-community/nus-sms/zh/Tao-Chen-2009-005.txt"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "zh",
+      "contributor": "Tao Chen",
+      "year": "2009",
+      "messages": 97,
+      "words": 1514,
+      "file": "19-organic-community/nus-sms/zh/Tao-Chen-2009-006.txt"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "zh",
+      "contributor": "Tao Chen",
+      "year": "2009",
+      "messages": 100,
+      "words": 1512,
+      "file": "19-organic-community/nus-sms/zh/Tao-Chen-2009-007.txt"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "zh",
+      "contributor": "Tao Chen",
+      "year": "2009",
+      "messages": 94,
+      "words": 1506,
+      "file": "19-organic-community/nus-sms/zh/Tao-Chen-2009-008.txt"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "zh",
+      "contributor": "Tao Chen",
+      "year": "2009",
+      "messages": 117,
+      "words": 1501,
+      "file": "19-organic-community/nus-sms/zh/Tao-Chen-2009-009.txt"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "zh",
+      "contributor": "Tao Chen",
+      "year": "2009",
+      "messages": 121,
+      "words": 1533,
+      "file": "19-organic-community/nus-sms/zh/Tao-Chen-2009-010.txt"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "zh",
+      "contributor": "Tao Chen",
+      "year": "2009",
+      "messages": 131,
+      "words": 1506,
+      "file": "19-organic-community/nus-sms/zh/Tao-Chen-2009-011.txt"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "zh",
+      "contributor": "Tao Chen",
+      "year": "2009",
+      "messages": 248,
+      "words": 1487,
+      "file": "19-organic-community/nus-sms/zh/Tao-Chen-2009-012.txt"
+    },
+    {
+      "source": "cosem",
+      "lang": "en",
+      "conversation": "17CF01",
+      "period": "2016-2016",
+      "messages": 360,
+      "words": 1500,
+      "file": "19-organic-community/cosem/17CF01-000.txt"
+    },
+    {
+      "source": "cosem",
+      "lang": "en",
+      "conversation": "17CF01",
+      "period": "2016-2016",
+      "messages": 181,
+      "words": 742,
+      "file": "19-organic-community/cosem/17CF01-001.txt"
+    },
+    {
+      "source": "cosem",
+      "lang": "en",
+      "conversation": "17CF02",
+      "period": "2016-2016",
+      "messages": 288,
+      "words": 1479,
+      "file": "19-organic-community/cosem/17CF02-000.txt"
+    },
+    {
+      "source": "cosem",
+      "lang": "en",
+      "conversation": "17CF02",
+      "period": "2016-2017",
+      "messages": 285,
+      "words": 1501,
+      "file": "19-organic-community/cosem/17CF02-001.txt"
+    },
+    {
+      "source": "cosem",
+      "lang": "en",
+      "conversation": "17CF02",
+      "period": "2016-2017",
+      "messages": 357,
+      "words": 1425,
+      "file": "19-organic-community/cosem/17CF02-002.txt"
+    },
+    {
+      "source": "cosem",
+      "lang": "en",
+      "conversation": "17CF02",
+      "period": "2016-2016",
+      "messages": 344,
+      "words": 1497,
+      "file": "19-organic-community/cosem/17CF02-003.txt"
+    },
+    {
+      "source": "cosem",
+      "lang": "en",
+      "conversation": "17CF02",
+      "period": "2016-2016",
+      "messages": 391,
+      "words": 1482,
+      "file": "19-organic-community/cosem/17CF02-004.txt"
+    },
+    {
+      "source": "cosem",
+      "lang": "en",
+      "conversation": "17CF02",
+      "period": "2016-2016",
+      "messages": 315,
+      "words": 1505,
+      "file": "19-organic-community/cosem/17CF02-005.txt"
+    },
+    {
+      "source": "cosem",
+      "lang": "en",
+      "conversation": "17CF02",
+      "period": "2016-2016",
+      "messages": 243,
+      "words": 1509,
+      "file": "19-organic-community/cosem/17CF02-006.txt"
+    },
+    {
+      "source": "cosem",
+      "lang": "en",
+      "conversation": "17CF02",
+      "period": "2016-2016",
+      "messages": 468,
+      "words": 1897,
+      "file": "19-organic-community/cosem/17CF02-007.txt"
+    },
+    {
+      "source": "cosem",
+      "lang": "en",
+      "conversation": "17CF03",
+      "period": "2016-2016",
+      "messages": 508,
+      "words": 1503,
+      "file": "19-organic-community/cosem/17CF03-000.txt"
+    },
+    {
+      "source": "cosem",
+      "lang": "en",
+      "conversation": "17CF03",
+      "period": "2016-2016",
+      "messages": 462,
+      "words": 1503,
+      "file": "19-organic-community/cosem/17CF03-001.txt"
+    },
+    {
+      "source": "cosem",
+      "lang": "en",
+      "conversation": "17CF03",
+      "period": "2016-2016",
+      "messages": 414,
+      "words": 1513,
+      "file": "19-organic-community/cosem/17CF03-002.txt"
+    },
+    {
+      "source": "cosem",
+      "lang": "en",
+      "conversation": "17CF03",
+      "period": "2016-2016",
+      "messages": 416,
+      "words": 1502,
+      "file": "19-organic-community/cosem/17CF03-003.txt"
+    },
+    {
+      "source": "cosem",
+      "lang": "en",
+      "conversation": "17CF03",
+      "period": "2016-2016",
+      "messages": 546,
+      "words": 1508,
+      "file": "19-organic-community/cosem/17CF03-004.txt"
+    },
+    {
+      "source": "cosem",
+      "lang": "en",
+      "conversation": "17CF03",
+      "period": "2016-2016",
+      "messages": 532,
+      "words": 1501,
+      "file": "19-organic-community/cosem/17CF03-005.txt"
+    },
+    {
+      "source": "cosem",
+      "lang": "en",
+      "conversation": "17CF03",
+      "period": "2016-2016",
+      "messages": 466,
+      "words": 1501,
+      "file": "19-organic-community/cosem/17CF03-006.txt"
+    },
+    {
+      "source": "cosem",
+      "lang": "en",
+      "conversation": "17CF03",
+      "period": "2016-2016",
+      "messages": 518,
+      "words": 1497,
+      "file": "19-organic-community/cosem/17CF03-007.txt"
+    },
+    {
+      "source": "cosem",
+      "lang": "en",
+      "conversation": "17CF03",
+      "period": "2016-2016",
+      "messages": 501,
+      "words": 1500,
+      "file": "19-organic-community/cosem/17CF03-008.txt"
+    },
+    {
+      "source": "cosem",
+      "lang": "en",
+      "conversation": "17CF03",
+      "period": "2016-2016",
+      "messages": 591,
+      "words": 1498,
+      "file": "19-organic-community/cosem/17CF03-009.txt"
+    },
+    {
+      "source": "cosem",
+      "lang": "en",
+      "conversation": "17CF03",
+      "period": "2016-2016",
+      "messages": 491,
+      "words": 1512,
+      "file": "19-organic-community/cosem/17CF03-010.txt"
+    },
+    {
+      "source": "cosem",
+      "lang": "en",
+      "conversation": "17CF03",
+      "period": "2016-2016",
+      "messages": 500,
+      "words": 1506,
+      "file": "19-organic-community/cosem/17CF03-011.txt"
+    },
+    {
+      "source": "cosem",
+      "lang": "en",
+      "conversation": "17CF03",
+      "period": "2016-2016",
+      "messages": 437,
+      "words": 1501,
+      "file": "19-organic-community/cosem/17CF03-012.txt"
+    },
+    {
+      "source": "cosem",
+      "lang": "en",
+      "conversation": "17CF03",
+      "period": "2016-2016",
+      "messages": 440,
+      "words": 1505,
+      "file": "19-organic-community/cosem/17CF03-013.txt"
+    },
+    {
+      "source": "cosem",
+      "lang": "en",
+      "conversation": "17CF03",
+      "period": "2016-2016",
+      "messages": 529,
+      "words": 1527,
+      "file": "19-organic-community/cosem/17CF03-014.txt"
+    },
+    {
+      "source": "cosem",
+      "lang": "en",
+      "conversation": "17CF03",
+      "period": "2016-2016",
+      "messages": 407,
+      "words": 1500,
+      "file": "19-organic-community/cosem/17CF03-015.txt"
+    },
+    {
+      "source": "cosem",
+      "lang": "en",
+      "conversation": "17CF03",
+      "period": "2016-2016",
+      "messages": 445,
+      "words": 1500,
+      "file": "19-organic-community/cosem/17CF03-016.txt"
+    },
+    {
+      "source": "cosem",
+      "lang": "en",
+      "conversation": "17CF03",
+      "period": "2016-2016",
+      "messages": 483,
+      "words": 1503,
+      "file": "19-organic-community/cosem/17CF03-017.txt"
+    },
+    {
+      "source": "cosem",
+      "lang": "en",
+      "conversation": "17CF03",
+      "period": "2016-2016",
+      "messages": 484,
+      "words": 1503,
+      "file": "19-organic-community/cosem/17CF03-018.txt"
+    },
+    {
+      "source": "cosem",
+      "lang": "en",
+      "conversation": "17CF03",
+      "period": "2016-2016",
+      "messages": 408,
+      "words": 1493,
+      "file": "19-organic-community/cosem/17CF03-019.txt"
+    },
+    {
+      "source": "cosem",
+      "lang": "en",
+      "conversation": "17CF03",
+      "period": "2016-2017",
+      "messages": 478,
+      "words": 1501,
+      "file": "19-organic-community/cosem/17CF03-020.txt"
+    },
+    {
+      "source": "cosem",
+      "lang": "en",
+      "conversation": "17CF03",
+      "period": "2017-2017",
+      "messages": 460,
+      "words": 1501,
+      "file": "19-organic-community/cosem/17CF03-021.txt"
+    },
+    {
+      "source": "cosem",
+      "lang": "en",
+      "conversation": "17CF03",
+      "period": "2017-2017",
+      "messages": 509,
+      "words": 1502,
+      "file": "19-organic-community/cosem/17CF03-022.txt"
+    },
+    {
+      "source": "cosem",
+      "lang": "en",
+      "conversation": "17CF03",
+      "period": "2017-2017",
+      "messages": 477,
+      "words": 1506,
+      "file": "19-organic-community/cosem/17CF03-023.txt"
+    },
+    {
+      "source": "cosem",
+      "lang": "en",
+      "conversation": "17CF03",
+      "period": "2017-2017",
+      "messages": 482,
+      "words": 1130,
+      "file": "19-organic-community/cosem/17CF03-024.txt"
+    },
+    {
+      "source": "cosem",
+      "lang": "en",
+      "conversation": "17CF03",
+      "period": "2017-2017",
+      "messages": 429,
+      "words": 1503,
+      "file": "19-organic-community/cosem/17CF03-025.txt"
+    },
+    {
+      "source": "cosem",
+      "lang": "en",
+      "conversation": "17CF03",
+      "period": "2017-2017",
+      "messages": 476,
+      "words": 1500,
+      "file": "19-organic-community/cosem/17CF03-026.txt"
+    },
+    {
+      "source": "cosem",
+      "lang": "en",
+      "conversation": "17CF03",
+      "period": "2017-2017",
+      "messages": 471,
+      "words": 1502,
+      "file": "19-organic-community/cosem/17CF03-027.txt"
+    },
+    {
+      "source": "cosem",
+      "lang": "en",
+      "conversation": "17CF03",
+      "period": "2017-2017",
+      "messages": 503,
+      "words": 1500,
+      "file": "19-organic-community/cosem/17CF03-028.txt"
+    },
+    {
+      "source": "cosem",
+      "lang": "en",
+      "conversation": "17CF03",
+      "period": "2017-2017",
+      "messages": 510,
+      "words": 1503,
+      "file": "19-organic-community/cosem/17CF03-029.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#ubuntu",
+      "date": "2004-11-15",
+      "messages": 5166,
+      "words": 44753,
+      "file": "19-organic-community/ubuntu-irc/ubuntu/2004-11-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#ubuntu",
+      "date": "2005-3-15",
+      "messages": 7622,
+      "words": 61043,
+      "file": "19-organic-community/ubuntu-irc/ubuntu/2005-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#ubuntu",
+      "date": "2005-7-15",
+      "messages": 10202,
+      "words": 85059,
+      "file": "19-organic-community/ubuntu-irc/ubuntu/2005-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#ubuntu",
+      "date": "2006-3-15",
+      "messages": 9929,
+      "words": 90603,
+      "file": "19-organic-community/ubuntu-irc/ubuntu/2006-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#ubuntu",
+      "date": "2006-7-15",
+      "messages": 11299,
+      "words": 117411,
+      "file": "19-organic-community/ubuntu-irc/ubuntu/2006-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#ubuntu",
+      "date": "2007-3-15",
+      "messages": 10733,
+      "words": 110916,
+      "file": "19-organic-community/ubuntu-irc/ubuntu/2007-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#ubuntu",
+      "date": "2007-7-15",
+      "messages": 11092,
+      "words": 115303,
+      "file": "19-organic-community/ubuntu-irc/ubuntu/2007-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#ubuntu",
+      "date": "2008-3-15",
+      "messages": 9923,
+      "words": 104072,
+      "file": "19-organic-community/ubuntu-irc/ubuntu/2008-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#ubuntu",
+      "date": "2008-7-15",
+      "messages": 12725,
+      "words": 138910,
+      "file": "19-organic-community/ubuntu-irc/ubuntu/2008-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#ubuntu",
+      "date": "2009-3-15",
+      "messages": 8982,
+      "words": 100968,
+      "file": "19-organic-community/ubuntu-irc/ubuntu/2009-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#ubuntu",
+      "date": "2009-7-15",
+      "messages": 9812,
+      "words": 112158,
+      "file": "19-organic-community/ubuntu-irc/ubuntu/2009-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#ubuntu",
+      "date": "2010-3-15",
+      "messages": 8511,
+      "words": 96267,
+      "file": "19-organic-community/ubuntu-irc/ubuntu/2010-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#ubuntu",
+      "date": "2010-7-15",
+      "messages": 6955,
+      "words": 79452,
+      "file": "19-organic-community/ubuntu-irc/ubuntu/2010-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#ubuntu",
+      "date": "2011-3-15",
+      "messages": 6712,
+      "words": 72868,
+      "file": "19-organic-community/ubuntu-irc/ubuntu/2011-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#ubuntu",
+      "date": "2011-7-15",
+      "messages": 6195,
+      "words": 65153,
+      "file": "19-organic-community/ubuntu-irc/ubuntu/2011-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#ubuntu",
+      "date": "2012-3-15",
+      "messages": 4543,
+      "words": 50843,
+      "file": "19-organic-community/ubuntu-irc/ubuntu/2012-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#ubuntu",
+      "date": "2012-7-15",
+      "messages": 4284,
+      "words": 50102,
+      "file": "19-organic-community/ubuntu-irc/ubuntu/2012-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#ubuntu",
+      "date": "2013-3-15",
+      "messages": 3351,
+      "words": 38322,
+      "file": "19-organic-community/ubuntu-irc/ubuntu/2013-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#ubuntu",
+      "date": "2013-7-15",
+      "messages": 3813,
+      "words": 41557,
+      "file": "19-organic-community/ubuntu-irc/ubuntu/2013-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#ubuntu",
+      "date": "2014-3-15",
+      "messages": 675,
+      "words": 8899,
+      "file": "19-organic-community/ubuntu-irc/ubuntu/2014-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#ubuntu",
+      "date": "2014-7-15",
+      "messages": 2937,
+      "words": 35826,
+      "file": "19-organic-community/ubuntu-irc/ubuntu/2014-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#ubuntu",
+      "date": "2015-3-15",
+      "messages": 3261,
+      "words": 34026,
+      "file": "19-organic-community/ubuntu-irc/ubuntu/2015-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#ubuntu",
+      "date": "2015-7-15",
+      "messages": 3248,
+      "words": 35701,
+      "file": "19-organic-community/ubuntu-irc/ubuntu/2015-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#kubuntu",
+      "date": "2005-7-15",
+      "messages": 1825,
+      "words": 13010,
+      "file": "19-organic-community/ubuntu-irc/kubuntu/2005-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#kubuntu",
+      "date": "2005-11-15",
+      "messages": 2279,
+      "words": 15710,
+      "file": "19-organic-community/ubuntu-irc/kubuntu/2005-11-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#kubuntu",
+      "date": "2006-3-15",
+      "messages": 2719,
+      "words": 21868,
+      "file": "19-organic-community/ubuntu-irc/kubuntu/2006-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#kubuntu",
+      "date": "2006-7-15",
+      "messages": 2901,
+      "words": 24964,
+      "file": "19-organic-community/ubuntu-irc/kubuntu/2006-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#kubuntu",
+      "date": "2007-3-15",
+      "messages": 4171,
+      "words": 39406,
+      "file": "19-organic-community/ubuntu-irc/kubuntu/2007-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#kubuntu",
+      "date": "2007-7-15",
+      "messages": 5585,
+      "words": 45241,
+      "file": "19-organic-community/ubuntu-irc/kubuntu/2007-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#kubuntu",
+      "date": "2008-3-15",
+      "messages": 2552,
+      "words": 19470,
+      "file": "19-organic-community/ubuntu-irc/kubuntu/2008-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#kubuntu",
+      "date": "2008-7-15",
+      "messages": 2224,
+      "words": 20918,
+      "file": "19-organic-community/ubuntu-irc/kubuntu/2008-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#kubuntu",
+      "date": "2009-3-15",
+      "messages": 2168,
+      "words": 17656,
+      "file": "19-organic-community/ubuntu-irc/kubuntu/2009-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#kubuntu",
+      "date": "2009-7-15",
+      "messages": 1457,
+      "words": 14070,
+      "file": "19-organic-community/ubuntu-irc/kubuntu/2009-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#kubuntu",
+      "date": "2010-3-15",
+      "messages": 781,
+      "words": 7288,
+      "file": "19-organic-community/ubuntu-irc/kubuntu/2010-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#kubuntu",
+      "date": "2010-7-15",
+      "messages": 517,
+      "words": 5217,
+      "file": "19-organic-community/ubuntu-irc/kubuntu/2010-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#kubuntu",
+      "date": "2011-3-15",
+      "messages": 1458,
+      "words": 14030,
+      "file": "19-organic-community/ubuntu-irc/kubuntu/2011-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#kubuntu",
+      "date": "2011-7-15",
+      "messages": 541,
+      "words": 4653,
+      "file": "19-organic-community/ubuntu-irc/kubuntu/2011-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#kubuntu",
+      "date": "2012-3-15",
+      "messages": 364,
+      "words": 3905,
+      "file": "19-organic-community/ubuntu-irc/kubuntu/2012-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#kubuntu",
+      "date": "2012-7-15",
+      "messages": 516,
+      "words": 4693,
+      "file": "19-organic-community/ubuntu-irc/kubuntu/2012-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#kubuntu",
+      "date": "2013-3-15",
+      "messages": 427,
+      "words": 3047,
+      "file": "19-organic-community/ubuntu-irc/kubuntu/2013-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#kubuntu",
+      "date": "2013-7-15",
+      "messages": 107,
+      "words": 844,
+      "file": "19-organic-community/ubuntu-irc/kubuntu/2013-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#kubuntu",
+      "date": "2014-3-15",
+      "messages": 66,
+      "words": 615,
+      "file": "19-organic-community/ubuntu-irc/kubuntu/2014-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#kubuntu",
+      "date": "2014-7-15",
+      "messages": 397,
+      "words": 4094,
+      "file": "19-organic-community/ubuntu-irc/kubuntu/2014-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#kubuntu",
+      "date": "2015-3-15",
+      "messages": 110,
+      "words": 1060,
+      "file": "19-organic-community/ubuntu-irc/kubuntu/2015-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#kubuntu",
+      "date": "2015-7-15",
+      "messages": 412,
+      "words": 4817,
+      "file": "19-organic-community/ubuntu-irc/kubuntu/2015-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#xubuntu",
+      "date": "2007-3-15",
+      "messages": 1070,
+      "words": 9173,
+      "file": "19-organic-community/ubuntu-irc/xubuntu/2007-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#xubuntu",
+      "date": "2007-7-15",
+      "messages": 462,
+      "words": 3336,
+      "file": "19-organic-community/ubuntu-irc/xubuntu/2007-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#xubuntu",
+      "date": "2008-3-15",
+      "messages": 300,
+      "words": 3026,
+      "file": "19-organic-community/ubuntu-irc/xubuntu/2008-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#xubuntu",
+      "date": "2008-7-15",
+      "messages": 600,
+      "words": 4756,
+      "file": "19-organic-community/ubuntu-irc/xubuntu/2008-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#xubuntu",
+      "date": "2009-3-15",
+      "messages": 476,
+      "words": 4009,
+      "file": "19-organic-community/ubuntu-irc/xubuntu/2009-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#xubuntu",
+      "date": "2009-7-15",
+      "messages": 295,
+      "words": 2515,
+      "file": "19-organic-community/ubuntu-irc/xubuntu/2009-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#xubuntu",
+      "date": "2010-3-15",
+      "messages": 119,
+      "words": 924,
+      "file": "19-organic-community/ubuntu-irc/xubuntu/2010-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#xubuntu",
+      "date": "2010-7-15",
+      "messages": 195,
+      "words": 2029,
+      "file": "19-organic-community/ubuntu-irc/xubuntu/2010-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#xubuntu",
+      "date": "2011-3-15",
+      "messages": 369,
+      "words": 3392,
+      "file": "19-organic-community/ubuntu-irc/xubuntu/2011-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#xubuntu",
+      "date": "2011-7-15",
+      "messages": 346,
+      "words": 3072,
+      "file": "19-organic-community/ubuntu-irc/xubuntu/2011-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#xubuntu",
+      "date": "2012-3-15",
+      "messages": 204,
+      "words": 2036,
+      "file": "19-organic-community/ubuntu-irc/xubuntu/2012-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#xubuntu",
+      "date": "2012-7-15",
+      "messages": 138,
+      "words": 1477,
+      "file": "19-organic-community/ubuntu-irc/xubuntu/2012-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#xubuntu",
+      "date": "2013-3-15",
+      "messages": 306,
+      "words": 3205,
+      "file": "19-organic-community/ubuntu-irc/xubuntu/2013-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#xubuntu",
+      "date": "2013-7-15",
+      "messages": 246,
+      "words": 3007,
+      "file": "19-organic-community/ubuntu-irc/xubuntu/2013-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#xubuntu",
+      "date": "2014-3-15",
+      "messages": 254,
+      "words": 2656,
+      "file": "19-organic-community/ubuntu-irc/xubuntu/2014-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#xubuntu",
+      "date": "2014-7-15",
+      "messages": 79,
+      "words": 944,
+      "file": "19-organic-community/ubuntu-irc/xubuntu/2014-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#xubuntu",
+      "date": "2015-3-15",
+      "messages": 56,
+      "words": 801,
+      "file": "19-organic-community/ubuntu-irc/xubuntu/2015-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#xubuntu",
+      "date": "2015-7-15",
+      "messages": 132,
+      "words": 1557,
+      "file": "19-organic-community/ubuntu-irc/xubuntu/2015-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#ubuntu-server",
+      "date": "2007-11-15",
+      "messages": 400,
+      "words": 4156,
+      "file": "19-organic-community/ubuntu-irc/ubuntu-server/2007-11-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#ubuntu-server",
+      "date": "2008-3-15",
+      "messages": 702,
+      "words": 8061,
+      "file": "19-organic-community/ubuntu-irc/ubuntu-server/2008-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#ubuntu-server",
+      "date": "2008-7-15",
+      "messages": 605,
+      "words": 5229,
+      "file": "19-organic-community/ubuntu-irc/ubuntu-server/2008-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#ubuntu-server",
+      "date": "2009-3-15",
+      "messages": 112,
+      "words": 1255,
+      "file": "19-organic-community/ubuntu-irc/ubuntu-server/2009-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#ubuntu-server",
+      "date": "2009-7-15",
+      "messages": 486,
+      "words": 4168,
+      "file": "19-organic-community/ubuntu-irc/ubuntu-server/2009-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#ubuntu-server",
+      "date": "2010-3-15",
+      "messages": 665,
+      "words": 7611,
+      "file": "19-organic-community/ubuntu-irc/ubuntu-server/2010-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#ubuntu-server",
+      "date": "2010-7-15",
+      "messages": 843,
+      "words": 7869,
+      "file": "19-organic-community/ubuntu-irc/ubuntu-server/2010-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#ubuntu-server",
+      "date": "2011-3-15",
+      "messages": 638,
+      "words": 6993,
+      "file": "19-organic-community/ubuntu-irc/ubuntu-server/2011-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#ubuntu-server",
+      "date": "2011-7-15",
+      "messages": 451,
+      "words": 4560,
+      "file": "19-organic-community/ubuntu-irc/ubuntu-server/2011-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#ubuntu-server",
+      "date": "2012-3-15",
+      "messages": 374,
+      "words": 4144,
+      "file": "19-organic-community/ubuntu-irc/ubuntu-server/2012-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#ubuntu-server",
+      "date": "2012-7-15",
+      "messages": 292,
+      "words": 2663,
+      "file": "19-organic-community/ubuntu-irc/ubuntu-server/2012-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#ubuntu-server",
+      "date": "2013-3-15",
+      "messages": 512,
+      "words": 5196,
+      "file": "19-organic-community/ubuntu-irc/ubuntu-server/2013-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#ubuntu-server",
+      "date": "2013-7-15",
+      "messages": 670,
+      "words": 6216,
+      "file": "19-organic-community/ubuntu-irc/ubuntu-server/2013-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#ubuntu-server",
+      "date": "2014-3-15",
+      "messages": 106,
+      "words": 1487,
+      "file": "19-organic-community/ubuntu-irc/ubuntu-server/2014-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#ubuntu-server",
+      "date": "2014-7-15",
+      "messages": 416,
+      "words": 4331,
+      "file": "19-organic-community/ubuntu-irc/ubuntu-server/2014-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#ubuntu-server",
+      "date": "2015-3-15",
+      "messages": 62,
+      "words": 668,
+      "file": "19-organic-community/ubuntu-irc/ubuntu-server/2015-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "en",
+      "channel": "#ubuntu-server",
+      "date": "2015-7-15",
+      "messages": 78,
+      "words": 1050,
+      "file": "19-organic-community/ubuntu-irc/ubuntu-server/2015-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "de",
+      "channel": "#ubuntu-de",
+      "date": "2010-11-15",
+      "messages": 596,
+      "words": 6218,
+      "file": "19-organic-community/ubuntu-irc/ubuntu-de/2010-11-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "de",
+      "channel": "#ubuntu-de",
+      "date": "2011-3-15",
+      "messages": 545,
+      "words": 5244,
+      "file": "19-organic-community/ubuntu-irc/ubuntu-de/2011-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "de",
+      "channel": "#ubuntu-de",
+      "date": "2011-7-15",
+      "messages": 959,
+      "words": 9736,
+      "file": "19-organic-community/ubuntu-irc/ubuntu-de/2011-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "de",
+      "channel": "#ubuntu-de",
+      "date": "2012-3-15",
+      "messages": 522,
+      "words": 5505,
+      "file": "19-organic-community/ubuntu-irc/ubuntu-de/2012-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "de",
+      "channel": "#ubuntu-de",
+      "date": "2012-7-15",
+      "messages": 447,
+      "words": 3784,
+      "file": "19-organic-community/ubuntu-irc/ubuntu-de/2012-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "de",
+      "channel": "#ubuntu-de",
+      "date": "2013-3-15",
+      "messages": 501,
+      "words": 5599,
+      "file": "19-organic-community/ubuntu-irc/ubuntu-de/2013-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "de",
+      "channel": "#ubuntu-de",
+      "date": "2013-11-15",
+      "messages": 149,
+      "words": 2213,
+      "file": "19-organic-community/ubuntu-irc/ubuntu-de/2013-11-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "de",
+      "channel": "#ubuntu-de",
+      "date": "2014-3-15",
+      "messages": 126,
+      "words": 996,
+      "file": "19-organic-community/ubuntu-irc/ubuntu-de/2014-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "de",
+      "channel": "#ubuntu-de",
+      "date": "2014-7-15",
+      "messages": 90,
+      "words": 1001,
+      "file": "19-organic-community/ubuntu-irc/ubuntu-de/2014-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "de",
+      "channel": "#ubuntu-de",
+      "date": "2015-3-15",
+      "messages": 70,
+      "words": 604,
+      "file": "19-organic-community/ubuntu-irc/ubuntu-de/2015-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "de",
+      "channel": "#ubuntu-de",
+      "date": "2015-7-15",
+      "messages": 244,
+      "words": 2558,
+      "file": "19-organic-community/ubuntu-irc/ubuntu-de/2015-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "es",
+      "channel": "#ubuntu-es",
+      "date": "2010-11-15",
+      "messages": 1843,
+      "words": 12342,
+      "file": "19-organic-community/ubuntu-irc/ubuntu-es/2010-11-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "es",
+      "channel": "#ubuntu-es",
+      "date": "2011-3-15",
+      "messages": 1756,
+      "words": 12991,
+      "file": "19-organic-community/ubuntu-irc/ubuntu-es/2011-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "es",
+      "channel": "#ubuntu-es",
+      "date": "2011-7-15",
+      "messages": 681,
+      "words": 5939,
+      "file": "19-organic-community/ubuntu-irc/ubuntu-es/2011-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "es",
+      "channel": "#ubuntu-es",
+      "date": "2012-3-15",
+      "messages": 138,
+      "words": 1011,
+      "file": "19-organic-community/ubuntu-irc/ubuntu-es/2012-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "es",
+      "channel": "#ubuntu-es",
+      "date": "2012-7-15",
+      "messages": 384,
+      "words": 2717,
+      "file": "19-organic-community/ubuntu-irc/ubuntu-es/2012-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "es",
+      "channel": "#ubuntu-es",
+      "date": "2013-3-15",
+      "messages": 484,
+      "words": 3239,
+      "file": "19-organic-community/ubuntu-irc/ubuntu-es/2013-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "es",
+      "channel": "#ubuntu-es",
+      "date": "2013-7-15",
+      "messages": 468,
+      "words": 3452,
+      "file": "19-organic-community/ubuntu-irc/ubuntu-es/2013-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "es",
+      "channel": "#ubuntu-es",
+      "date": "2014-3-15",
+      "messages": 154,
+      "words": 998,
+      "file": "19-organic-community/ubuntu-irc/ubuntu-es/2014-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "es",
+      "channel": "#ubuntu-es",
+      "date": "2015-7-15",
+      "messages": 94,
+      "words": 811,
+      "file": "19-organic-community/ubuntu-irc/ubuntu-es/2015-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "es",
+      "channel": "#ubuntu-es",
+      "date": "2015-11-15",
+      "messages": 196,
+      "words": 1164,
+      "file": "19-organic-community/ubuntu-irc/ubuntu-es/2015-11-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "it",
+      "channel": "#ubuntu-it",
+      "date": "2010-11-15",
+      "messages": 1187,
+      "words": 8860,
+      "file": "19-organic-community/ubuntu-irc/ubuntu-it/2010-11-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "it",
+      "channel": "#ubuntu-it",
+      "date": "2011-3-15",
+      "messages": 903,
+      "words": 7646,
+      "file": "19-organic-community/ubuntu-irc/ubuntu-it/2011-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "it",
+      "channel": "#ubuntu-it",
+      "date": "2011-7-15",
+      "messages": 704,
+      "words": 6254,
+      "file": "19-organic-community/ubuntu-irc/ubuntu-it/2011-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "it",
+      "channel": "#ubuntu-it",
+      "date": "2012-3-15",
+      "messages": 1351,
+      "words": 10808,
+      "file": "19-organic-community/ubuntu-irc/ubuntu-it/2012-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "it",
+      "channel": "#ubuntu-it",
+      "date": "2012-7-15",
+      "messages": 809,
+      "words": 5586,
+      "file": "19-organic-community/ubuntu-irc/ubuntu-it/2012-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "it",
+      "channel": "#ubuntu-it",
+      "date": "2013-3-15",
+      "messages": 1055,
+      "words": 7875,
+      "file": "19-organic-community/ubuntu-irc/ubuntu-it/2013-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "it",
+      "channel": "#ubuntu-it",
+      "date": "2013-7-15",
+      "messages": 1732,
+      "words": 11177,
+      "file": "19-organic-community/ubuntu-irc/ubuntu-it/2013-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "it",
+      "channel": "#ubuntu-it",
+      "date": "2014-3-15",
+      "messages": 1470,
+      "words": 10404,
+      "file": "19-organic-community/ubuntu-irc/ubuntu-it/2014-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "it",
+      "channel": "#ubuntu-it",
+      "date": "2014-7-15",
+      "messages": 722,
+      "words": 4787,
+      "file": "19-organic-community/ubuntu-irc/ubuntu-it/2014-07-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "it",
+      "channel": "#ubuntu-it",
+      "date": "2015-3-15",
+      "messages": 889,
+      "words": 6215,
+      "file": "19-organic-community/ubuntu-irc/ubuntu-it/2015-03-15.txt"
+    },
+    {
+      "source": "ubuntu-irc",
+      "lang": "it",
+      "channel": "#ubuntu-it",
+      "date": "2015-7-15",
+      "messages": 367,
+      "words": 3195,
+      "file": "19-organic-community/ubuntu-irc/ubuntu-it/2015-07-15.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "skilling-j",
+      "period": "2000-05",
+      "emails": 66,
+      "words": 2598,
+      "file": "19-organic-community/enron/skilling-j/2000-05-000.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "skilling-j",
+      "period": "2000-06",
+      "emails": 35,
+      "words": 2248,
+      "file": "19-organic-community/enron/skilling-j/2000-06-000.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "skilling-j",
+      "period": "2000-06",
+      "emails": 9,
+      "words": 1896,
+      "file": "19-organic-community/enron/skilling-j/2000-06-001.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "skilling-j",
+      "period": "2000-06",
+      "emails": 24,
+      "words": 2022,
+      "file": "19-organic-community/enron/skilling-j/2000-06-002.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "skilling-j",
+      "period": "2000-06",
+      "emails": 21,
+      "words": 1839,
+      "file": "19-organic-community/enron/skilling-j/2000-06-003.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "skilling-j",
+      "period": "2000-06",
+      "emails": 17,
+      "words": 2642,
+      "file": "19-organic-community/enron/skilling-j/2000-06-004.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "lay-k",
+      "period": "1999-08",
+      "emails": 33,
+      "words": 2370,
+      "file": "19-organic-community/enron/lay-k/1999-08-000.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "lay-k",
+      "period": "1999-09",
+      "emails": 16,
+      "words": 1933,
+      "file": "19-organic-community/enron/lay-k/1999-09-000.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "lay-k",
+      "period": "1999-10",
+      "emails": 51,
+      "words": 2854,
+      "file": "19-organic-community/enron/lay-k/1999-10-000.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "lay-k",
+      "period": "1999-11",
+      "emails": 9,
+      "words": 2194,
+      "file": "19-organic-community/enron/lay-k/1999-11-000.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "lay-k",
+      "period": "2000-06",
+      "emails": 51,
+      "words": 2374,
+      "file": "19-organic-community/enron/lay-k/2000-06-000.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "lay-k",
+      "period": "2000-06",
+      "emails": 30,
+      "words": 1434,
+      "file": "19-organic-community/enron/lay-k/2000-06-001.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "corman-s",
+      "period": "2001-10",
+      "emails": 38,
+      "words": 2112,
+      "file": "19-organic-community/enron/corman-s/2001-10-000.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "corman-s",
+      "period": "2001-10",
+      "emails": 47,
+      "words": 2305,
+      "file": "19-organic-community/enron/corman-s/2001-10-001.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "corman-s",
+      "period": "2001-10",
+      "emails": 45,
+      "words": 2210,
+      "file": "19-organic-community/enron/corman-s/2001-10-002.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "corman-s",
+      "period": "2001-10",
+      "emails": 34,
+      "words": 2065,
+      "file": "19-organic-community/enron/corman-s/2001-10-003.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "corman-s",
+      "period": "2001-10",
+      "emails": 47,
+      "words": 2267,
+      "file": "19-organic-community/enron/corman-s/2001-10-004.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "corman-s",
+      "period": "2001-10",
+      "emails": 50,
+      "words": 2478,
+      "file": "19-organic-community/enron/corman-s/2001-10-005.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "arnold-j",
+      "period": "2000-04",
+      "emails": 53,
+      "words": 2802,
+      "file": "19-organic-community/enron/arnold-j/2000-04-000.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "arnold-j",
+      "period": "2000-07",
+      "emails": 46,
+      "words": 2196,
+      "file": "19-organic-community/enron/arnold-j/2000-07-000.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "arnold-j",
+      "period": "2000-07",
+      "emails": 49,
+      "words": 2211,
+      "file": "19-organic-community/enron/arnold-j/2000-07-001.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "arnold-j",
+      "period": "2000-07",
+      "emails": 37,
+      "words": 1724,
+      "file": "19-organic-community/enron/arnold-j/2000-07-002.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "arnold-j",
+      "period": "2000-08",
+      "emails": 73,
+      "words": 2522,
+      "file": "19-organic-community/enron/arnold-j/2000-08-000.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "arnold-j",
+      "period": "2000-08",
+      "emails": 74,
+      "words": 2543,
+      "file": "19-organic-community/enron/arnold-j/2000-08-001.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "allen-p",
+      "period": "2000-08",
+      "emails": 190,
+      "words": 4371,
+      "file": "19-organic-community/enron/allen-p/2000-08-000.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "allen-p",
+      "period": "2000-11",
+      "emails": 85,
+      "words": 2937,
+      "file": "19-organic-community/enron/allen-p/2000-11-000.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "allen-p",
+      "period": "2000-12",
+      "emails": 90,
+      "words": 2944,
+      "file": "19-organic-community/enron/allen-p/2000-12-000.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "allen-p",
+      "period": "2000-12",
+      "emails": 84,
+      "words": 2843,
+      "file": "19-organic-community/enron/allen-p/2000-12-001.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "allen-p",
+      "period": "2000-12",
+      "emails": 58,
+      "words": 1892,
+      "file": "19-organic-community/enron/allen-p/2000-12-002.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "allen-p",
+      "period": "2001-01",
+      "emails": 113,
+      "words": 3129,
+      "file": "19-organic-community/enron/allen-p/2001-01-000.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "bass-e",
+      "period": "2000-01",
+      "emails": 82,
+      "words": 2673,
+      "file": "19-organic-community/enron/bass-e/2000-01-000.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "bass-e",
+      "period": "2000-01",
+      "emails": 84,
+      "words": 2703,
+      "file": "19-organic-community/enron/bass-e/2000-01-001.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "bass-e",
+      "period": "2000-01",
+      "emails": 88,
+      "words": 2755,
+      "file": "19-organic-community/enron/bass-e/2000-01-002.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "bass-e",
+      "period": "2000-01",
+      "emails": 53,
+      "words": 1714,
+      "file": "19-organic-community/enron/bass-e/2000-01-003.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "bass-e",
+      "period": "2000-02",
+      "emails": 98,
+      "words": 2865,
+      "file": "19-organic-community/enron/bass-e/2000-02-000.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "bass-e",
+      "period": "2000-02",
+      "emails": 100,
+      "words": 2914,
+      "file": "19-organic-community/enron/bass-e/2000-02-001.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "germany-c",
+      "period": "1999-12",
+      "emails": 90,
+      "words": 2917,
+      "file": "19-organic-community/enron/germany-c/1999-12-000.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "germany-c",
+      "period": "1999-12",
+      "emails": 83,
+      "words": 2786,
+      "file": "19-organic-community/enron/germany-c/1999-12-001.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "germany-c",
+      "period": "1999-12",
+      "emails": 91,
+      "words": 2952,
+      "file": "19-organic-community/enron/germany-c/1999-12-002.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "germany-c",
+      "period": "1999-12",
+      "emails": 86,
+      "words": 2844,
+      "file": "19-organic-community/enron/germany-c/1999-12-003.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "germany-c",
+      "period": "1999-12",
+      "emails": 84,
+      "words": 2858,
+      "file": "19-organic-community/enron/germany-c/1999-12-004.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "germany-c",
+      "period": "1999-12",
+      "emails": 112,
+      "words": 3651,
+      "file": "19-organic-community/enron/germany-c/1999-12-005.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "dasovich-j",
+      "period": "1999-09",
+      "emails": 18,
+      "words": 1831,
+      "file": "19-organic-community/enron/dasovich-j/1999-09-000.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "dasovich-j",
+      "period": "1999-09",
+      "emails": 46,
+      "words": 2859,
+      "file": "19-organic-community/enron/dasovich-j/1999-09-001.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "dasovich-j",
+      "period": "1999-10",
+      "emails": 19,
+      "words": 1820,
+      "file": "19-organic-community/enron/dasovich-j/1999-10-000.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "dasovich-j",
+      "period": "1999-10",
+      "emails": 38,
+      "words": 2217,
+      "file": "19-organic-community/enron/dasovich-j/1999-10-001.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "dasovich-j",
+      "period": "1999-10",
+      "emails": 46,
+      "words": 2230,
+      "file": "19-organic-community/enron/dasovich-j/1999-10-002.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "dasovich-j",
+      "period": "1999-10",
+      "emails": 38,
+      "words": 2090,
+      "file": "19-organic-community/enron/dasovich-j/1999-10-003.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "farmer-d",
+      "period": "1999-12",
+      "emails": 81,
+      "words": 2794,
+      "file": "19-organic-community/enron/farmer-d/1999-12-000.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "farmer-d",
+      "period": "1999-12",
+      "emails": 89,
+      "words": 2857,
+      "file": "19-organic-community/enron/farmer-d/1999-12-001.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "farmer-d",
+      "period": "1999-12",
+      "emails": 79,
+      "words": 2777,
+      "file": "19-organic-community/enron/farmer-d/1999-12-002.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "farmer-d",
+      "period": "1999-12",
+      "emails": 62,
+      "words": 2146,
+      "file": "19-organic-community/enron/farmer-d/1999-12-003.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "farmer-d",
+      "period": "2000-01",
+      "emails": 104,
+      "words": 3110,
+      "file": "19-organic-community/enron/farmer-d/2000-01-000.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "farmer-d",
+      "period": "2000-01",
+      "emails": 68,
+      "words": 2563,
+      "file": "19-organic-community/enron/farmer-d/2000-01-001.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "kean-s",
+      "period": "1979-12",
+      "emails": 36,
+      "words": 2049,
+      "file": "19-organic-community/enron/kean-s/1979-12-000.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "kean-s",
+      "period": "1979-12",
+      "emails": 47,
+      "words": 2246,
+      "file": "19-organic-community/enron/kean-s/1979-12-001.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "kean-s",
+      "period": "1979-12",
+      "emails": 19,
+      "words": 923,
+      "file": "19-organic-community/enron/kean-s/1979-12-002.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "kean-s",
+      "period": "1999-09",
+      "emails": 68,
+      "words": 2591,
+      "file": "19-organic-community/enron/kean-s/1999-09-000.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "kean-s",
+      "period": "1999-09",
+      "emails": 24,
+      "words": 977,
+      "file": "19-organic-community/enron/kean-s/1999-09-001.txt"
+    },
+    {
+      "source": "enron",
+      "lang": "en",
+      "mailbox": "kean-s",
+      "period": "1999-10",
+      "emails": 45,
+      "words": 2177,
+      "file": "19-organic-community/enron/kean-s/1999-10-000.txt"
+    },
+    {
+      "source": "lccc",
+      "lang": "zh",
+      "batch": 0,
+      "dialogues": 37,
+      "messages": 37,
+      "words": 1508,
+      "file": "19-organic-community/lccc/lccc-00000.txt"
+    },
+    {
+      "source": "lccc",
+      "lang": "zh",
+      "batch": 1,
+      "dialogues": 54,
+      "messages": 54,
+      "words": 1542,
+      "file": "19-organic-community/lccc/lccc-00001.txt"
+    },
+    {
+      "source": "lccc",
+      "lang": "zh",
+      "batch": 2,
+      "dialogues": 52,
+      "messages": 52,
+      "words": 1514,
+      "file": "19-organic-community/lccc/lccc-00002.txt"
+    },
+    {
+      "source": "lccc",
+      "lang": "zh",
+      "batch": 3,
+      "dialogues": 51,
+      "messages": 51,
+      "words": 1528,
+      "file": "19-organic-community/lccc/lccc-00003.txt"
+    },
+    {
+      "source": "lccc",
+      "lang": "zh",
+      "batch": 4,
+      "dialogues": 40,
+      "messages": 40,
+      "words": 1524,
+      "file": "19-organic-community/lccc/lccc-00004.txt"
+    },
+    {
+      "source": "lccc",
+      "lang": "zh",
+      "batch": 5,
+      "dialogues": 48,
+      "messages": 48,
+      "words": 1517,
+      "file": "19-organic-community/lccc/lccc-00005.txt"
+    },
+    {
+      "source": "lccc",
+      "lang": "zh",
+      "batch": 6,
+      "dialogues": 47,
+      "messages": 47,
+      "words": 1501,
+      "file": "19-organic-community/lccc/lccc-00006.txt"
+    },
+    {
+      "source": "lccc",
+      "lang": "zh",
+      "batch": 7,
+      "dialogues": 45,
+      "messages": 45,
+      "words": 1509,
+      "file": "19-organic-community/lccc/lccc-00007.txt"
+    },
+    {
+      "source": "lccc",
+      "lang": "zh",
+      "batch": 8,
+      "dialogues": 55,
+      "messages": 55,
+      "words": 1516,
+      "file": "19-organic-community/lccc/lccc-00008.txt"
+    },
+    {
+      "source": "lccc",
+      "lang": "zh",
+      "batch": 9,
+      "dialogues": 41,
+      "messages": 41,
+      "words": 1538,
+      "file": "19-organic-community/lccc/lccc-00009.txt"
+    },
+    {
+      "source": "lccc",
+      "lang": "zh",
+      "batch": 10,
+      "dialogues": 49,
+      "messages": 49,
+      "words": 1524,
+      "file": "19-organic-community/lccc/lccc-00010.txt"
+    },
+    {
+      "source": "lccc",
+      "lang": "zh",
+      "batch": 11,
+      "dialogues": 52,
+      "messages": 52,
+      "words": 1542,
+      "file": "19-organic-community/lccc/lccc-00011.txt"
+    },
+    {
+      "source": "lccc",
+      "lang": "zh",
+      "batch": 12,
+      "dialogues": 52,
+      "messages": 52,
+      "words": 1538,
+      "file": "19-organic-community/lccc/lccc-00012.txt"
+    },
+    {
+      "source": "lccc",
+      "lang": "zh",
+      "batch": 13,
+      "dialogues": 44,
+      "messages": 44,
+      "words": 1530,
+      "file": "19-organic-community/lccc/lccc-00013.txt"
+    },
+    {
+      "source": "lccc",
+      "lang": "zh",
+      "batch": 14,
+      "dialogues": 50,
+      "messages": 50,
+      "words": 1533,
+      "file": "19-organic-community/lccc/lccc-00014.txt"
+    },
+    {
+      "source": "lccc",
+      "lang": "zh",
+      "batch": 15,
+      "dialogues": 42,
+      "messages": 42,
+      "words": 1536,
+      "file": "19-organic-community/lccc/lccc-00015.txt"
+    },
+    {
+      "source": "lccc",
+      "lang": "zh",
+      "batch": 16,
+      "dialogues": 44,
+      "messages": 44,
+      "words": 1542,
+      "file": "19-organic-community/lccc/lccc-00016.txt"
+    },
+    {
+      "source": "lccc",
+      "lang": "zh",
+      "batch": 17,
+      "dialogues": 49,
+      "messages": 49,
+      "words": 1514,
+      "file": "19-organic-community/lccc/lccc-00017.txt"
+    },
+    {
+      "source": "lccc",
+      "lang": "zh",
+      "batch": 18,
+      "dialogues": 42,
+      "messages": 42,
+      "words": 1507,
+      "file": "19-organic-community/lccc/lccc-00018.txt"
+    },
+    {
+      "source": "lccc",
+      "lang": "zh",
+      "batch": 19,
+      "dialogues": 44,
+      "messages": 44,
+      "words": 1550,
+      "file": "19-organic-community/lccc/lccc-00019.txt"
+    },
+    {
+      "source": "lccc",
+      "lang": "zh",
+      "batch": 20,
+      "dialogues": 40,
+      "messages": 40,
+      "words": 1514,
+      "file": "19-organic-community/lccc/lccc-00020.txt"
+    },
+    {
+      "source": "lccc",
+      "lang": "zh",
+      "batch": 21,
+      "dialogues": 44,
+      "messages": 44,
+      "words": 1524,
+      "file": "19-organic-community/lccc/lccc-00021.txt"
+    },
+    {
+      "source": "lccc",
+      "lang": "zh",
+      "batch": 22,
+      "dialogues": 42,
+      "messages": 42,
+      "words": 1505,
+      "file": "19-organic-community/lccc/lccc-00022.txt"
+    },
+    {
+      "source": "lccc",
+      "lang": "zh",
+      "batch": 23,
+      "dialogues": 35,
+      "messages": 35,
+      "words": 1561,
+      "file": "19-organic-community/lccc/lccc-00023.txt"
+    },
+    {
+      "source": "lccc",
+      "lang": "zh",
+      "batch": 24,
+      "dialogues": 49,
+      "messages": 49,
+      "words": 1528,
+      "file": "19-organic-community/lccc/lccc-00024.txt"
+    },
+    {
+      "source": "lccc",
+      "lang": "zh",
+      "batch": 25,
+      "dialogues": 38,
+      "messages": 38,
+      "words": 1529,
+      "file": "19-organic-community/lccc/lccc-00025.txt"
+    },
+    {
+      "source": "lccc",
+      "lang": "zh",
+      "batch": 26,
+      "dialogues": 48,
+      "messages": 48,
+      "words": 1524,
+      "file": "19-organic-community/lccc/lccc-00026.txt"
+    },
+    {
+      "source": "lccc",
+      "lang": "zh",
+      "batch": 27,
+      "dialogues": 45,
+      "messages": 45,
+      "words": 1517,
+      "file": "19-organic-community/lccc/lccc-00027.txt"
+    },
+    {
+      "source": "lccc",
+      "lang": "zh",
+      "batch": 28,
+      "dialogues": 52,
+      "messages": 52,
+      "words": 1506,
+      "file": "19-organic-community/lccc/lccc-00028.txt"
+    },
+    {
+      "source": "lccc",
+      "lang": "zh",
+      "batch": 29,
+      "dialogues": 43,
+      "messages": 43,
+      "words": 1530,
+      "file": "19-organic-community/lccc/lccc-00029.txt"
+    },
+    {
+      "source": "lccc",
+      "lang": "zh",
+      "batch": 30,
+      "dialogues": 44,
+      "messages": 44,
+      "words": 1515,
+      "file": "19-organic-community/lccc/lccc-00030.txt"
+    },
+    {
+      "source": "lccc",
+      "lang": "zh",
+      "batch": 31,
+      "dialogues": 49,
+      "messages": 49,
+      "words": 1520,
+      "file": "19-organic-community/lccc/lccc-00031.txt"
+    },
+    {
+      "source": "lccc",
+      "lang": "zh",
+      "batch": 32,
+      "dialogues": 50,
+      "messages": 50,
+      "words": 1519,
+      "file": "19-organic-community/lccc/lccc-00032.txt"
+    },
+    {
+      "source": "lccc",
+      "lang": "zh",
+      "batch": 33,
+      "dialogues": 49,
+      "messages": 49,
+      "words": 1511,
+      "file": "19-organic-community/lccc/lccc-00033.txt"
+    },
+    {
+      "source": "lccc",
+      "lang": "zh",
+      "batch": 34,
+      "dialogues": 43,
+      "messages": 43,
+      "words": 1529,
+      "file": "19-organic-community/lccc/lccc-00034.txt"
+    },
+    {
+      "source": "lccc",
+      "lang": "zh",
+      "batch": 35,
+      "dialogues": 55,
+      "messages": 55,
+      "words": 1509,
+      "file": "19-organic-community/lccc/lccc-00035.txt"
+    },
+    {
+      "source": "lccc",
+      "lang": "zh",
+      "batch": 36,
+      "dialogues": 50,
+      "messages": 50,
+      "words": 1503,
+      "file": "19-organic-community/lccc/lccc-00036.txt"
+    },
+    {
+      "source": "lccc",
+      "lang": "zh",
+      "batch": 37,
+      "dialogues": 44,
+      "messages": 44,
+      "words": 1588,
+      "file": "19-organic-community/lccc/lccc-00037.txt"
+    },
+    {
+      "source": "lccc",
+      "lang": "zh",
+      "batch": 38,
+      "dialogues": 46,
+      "messages": 46,
+      "words": 1550,
+      "file": "19-organic-community/lccc/lccc-00038.txt"
+    },
+    {
+      "source": "lccc",
+      "lang": "zh",
+      "batch": 39,
+      "dialogues": 42,
+      "messages": 42,
+      "words": 1510,
+      "file": "19-organic-community/lccc/lccc-00039.txt"
+    }
+  ],
+  "rejected": [
+    {
+      "source": "nus-sms",
+      "lang": "en",
+      "reason": "doc_cap",
+      "group": "Tao Chen__2010"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "en",
+      "reason": "doc_cap",
+      "group": "Tao Chen__2011"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "en",
+      "reason": "doc_cap",
+      "group": "Tao Chen__2012"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "en",
+      "reason": "doc_cap",
+      "group": "Tao Chen__2013"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "en",
+      "reason": "doc_cap",
+      "group": "Tao Chen__2018"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "en",
+      "reason": "doc_cap",
+      "group": "Tao Chen__unknown"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "en",
+      "reason": "doc_cap",
+      "group": "howyijue__unknown"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "zh",
+      "reason": "doc_cap",
+      "group": "Tao Chen__2009"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "zh",
+      "reason": "doc_cap",
+      "group": "Tao Chen__2010"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "zh",
+      "reason": "doc_cap",
+      "group": "Tao Chen__2011"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "zh",
+      "reason": "doc_cap",
+      "group": "Tao Chen__2012"
+    },
+    {
+      "source": "nus-sms",
+      "lang": "zh",
+      "reason": "doc_cap",
+      "group": "Tao Chen__unknown"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "17CF03"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "17CF04"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "17CF05"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "17CF06"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "17CF07"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "17CF08"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "17CF09"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "17CF10"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "17CF11"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "17CF12"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "17CF13"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "17CF14"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "17CF15"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "17CF16"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "17CF18"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "17CF19"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "17CF20"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "17CF21"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "17CF22"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "17CF23"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "17CF24"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "17CF25"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "17CF27"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "17CF28"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "17CF29"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "17CF30"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "17CF31"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "17CF32"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "17CF33"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "17CF34"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "17CF36"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "17CM01"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "17CM02"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "17CM03"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "17CM04"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "17CM05"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "17IF02"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "17MF01"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "18CF36"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "18CF37"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "18CF38"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "18CF39"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "18CF40"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "18CF41"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "18CF42"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "18CF43"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "18CF44"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "18CF46"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "18CF47"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "18CF48"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "18CF49"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "18CF50"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "18CF51"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "18CF52"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "18CF54"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "18CF55"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "18CF56"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "18CF58"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "18CF59"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "18CM08"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "18CM09"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "18CM10"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "18IF05"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "18IF06"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "18MF02"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "18MF03"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "18MM01"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "18OF02"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "18OF03"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "18OM01"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "19CF01"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "19CF02"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "19CF03"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "19CF04"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "19CF05"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "19CF06"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "19CF07"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "19CF10"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "19CF11"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "19CM02"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "19CM04"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "19MM02"
+    },
+    {
+      "source": "cosem",
+      "reason": "doc_cap",
+      "conversation": "21DC28"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu",
+      "date": "2004-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu",
+      "date": "2004-7-15",
+      "reason": "no_message_lines"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu",
+      "date": "2005-11-15",
+      "reason": "per_year_cap"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu",
+      "date": "2006-11-15",
+      "reason": "per_year_cap"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu",
+      "date": "2007-11-15",
+      "reason": "per_year_cap"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu",
+      "date": "2008-11-15",
+      "reason": "per_year_cap"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu",
+      "date": "2009-11-15",
+      "reason": "per_year_cap"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu",
+      "date": "2010-11-15",
+      "reason": "per_year_cap"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu",
+      "date": "2011-11-15",
+      "reason": "per_year_cap"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu",
+      "date": "2012-11-15",
+      "reason": "per_year_cap"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu",
+      "date": "2013-11-15",
+      "reason": "per_year_cap"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu",
+      "date": "2014-11-15",
+      "reason": "per_year_cap"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu",
+      "date": "2015-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-offtopic",
+      "date": "2004-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-offtopic",
+      "date": "2004-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-offtopic",
+      "date": "2004-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-offtopic",
+      "date": "2005-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-offtopic",
+      "date": "2005-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-offtopic",
+      "date": "2005-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-offtopic",
+      "date": "2006-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-offtopic",
+      "date": "2006-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-offtopic",
+      "date": "2006-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-offtopic",
+      "date": "2007-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-offtopic",
+      "date": "2007-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-offtopic",
+      "date": "2007-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-offtopic",
+      "date": "2008-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-offtopic",
+      "date": "2008-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-offtopic",
+      "date": "2008-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-offtopic",
+      "date": "2009-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-offtopic",
+      "date": "2009-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-offtopic",
+      "date": "2009-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-offtopic",
+      "date": "2010-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-offtopic",
+      "date": "2010-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-offtopic",
+      "date": "2010-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-offtopic",
+      "date": "2011-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-offtopic",
+      "date": "2011-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-offtopic",
+      "date": "2011-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-offtopic",
+      "date": "2012-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-offtopic",
+      "date": "2012-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-offtopic",
+      "date": "2012-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-offtopic",
+      "date": "2013-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-offtopic",
+      "date": "2013-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-offtopic",
+      "date": "2013-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-offtopic",
+      "date": "2014-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-offtopic",
+      "date": "2014-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-offtopic",
+      "date": "2014-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-offtopic",
+      "date": "2015-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-offtopic",
+      "date": "2015-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-offtopic",
+      "date": "2015-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#kubuntu",
+      "date": "2004-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#kubuntu",
+      "date": "2004-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#kubuntu",
+      "date": "2004-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#kubuntu",
+      "date": "2005-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#kubuntu",
+      "date": "2006-11-15",
+      "reason": "per_year_cap"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#kubuntu",
+      "date": "2007-11-15",
+      "reason": "per_year_cap"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#kubuntu",
+      "date": "2008-11-15",
+      "reason": "per_year_cap"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#kubuntu",
+      "date": "2009-11-15",
+      "reason": "per_year_cap"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#kubuntu",
+      "date": "2010-11-15",
+      "reason": "per_year_cap"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#kubuntu",
+      "date": "2011-11-15",
+      "reason": "per_year_cap"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#kubuntu",
+      "date": "2012-11-15",
+      "reason": "per_year_cap"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#kubuntu",
+      "date": "2013-11-15",
+      "reason": "per_year_cap"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#kubuntu",
+      "date": "2014-11-15",
+      "reason": "per_year_cap"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#kubuntu",
+      "date": "2015-11-15",
+      "reason": "per_year_cap"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#xubuntu",
+      "date": "2004-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#xubuntu",
+      "date": "2004-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#xubuntu",
+      "date": "2004-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#xubuntu",
+      "date": "2005-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#xubuntu",
+      "date": "2005-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#xubuntu",
+      "date": "2005-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#xubuntu",
+      "date": "2006-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#xubuntu",
+      "date": "2006-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#xubuntu",
+      "date": "2006-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#xubuntu",
+      "date": "2007-11-15",
+      "reason": "per_year_cap"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#xubuntu",
+      "date": "2008-11-15",
+      "reason": "per_year_cap"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#xubuntu",
+      "date": "2009-11-15",
+      "reason": "per_year_cap"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#xubuntu",
+      "date": "2010-11-15",
+      "reason": "per_year_cap"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#xubuntu",
+      "date": "2011-11-15",
+      "reason": "per_year_cap"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#xubuntu",
+      "date": "2012-11-15",
+      "reason": "per_year_cap"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#xubuntu",
+      "date": "2013-11-15",
+      "reason": "per_year_cap"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#xubuntu",
+      "date": "2014-11-15",
+      "reason": "per_year_cap"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#xubuntu",
+      "date": "2015-11-15",
+      "reason": "per_year_cap"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-server",
+      "date": "2004-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-server",
+      "date": "2004-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-server",
+      "date": "2004-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-server",
+      "date": "2005-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-server",
+      "date": "2005-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-server",
+      "date": "2005-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-server",
+      "date": "2006-3-15",
+      "reason": "under_600_words",
+      "words": 522
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-server",
+      "date": "2006-7-15",
+      "reason": "no_message_lines"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-server",
+      "date": "2006-11-15",
+      "reason": "under_600_words",
+      "words": 54
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-server",
+      "date": "2007-3-15",
+      "reason": "under_600_words",
+      "words": 322
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-server",
+      "date": "2007-7-15",
+      "reason": "no_message_lines"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-server",
+      "date": "2008-11-15",
+      "reason": "per_year_cap"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-server",
+      "date": "2009-11-15",
+      "reason": "per_year_cap"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-server",
+      "date": "2010-11-15",
+      "reason": "per_year_cap"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-server",
+      "date": "2011-11-15",
+      "reason": "per_year_cap"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-server",
+      "date": "2012-11-15",
+      "reason": "per_year_cap"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-server",
+      "date": "2013-11-15",
+      "reason": "per_year_cap"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-server",
+      "date": "2014-11-15",
+      "reason": "per_year_cap"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-server",
+      "date": "2015-11-15",
+      "reason": "per_year_cap"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-de",
+      "date": "2004-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-de",
+      "date": "2004-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-de",
+      "date": "2004-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-de",
+      "date": "2005-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-de",
+      "date": "2005-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-de",
+      "date": "2005-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-de",
+      "date": "2006-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-de",
+      "date": "2006-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-de",
+      "date": "2006-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-de",
+      "date": "2007-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-de",
+      "date": "2007-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-de",
+      "date": "2007-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-de",
+      "date": "2008-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-de",
+      "date": "2008-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-de",
+      "date": "2008-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-de",
+      "date": "2009-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-de",
+      "date": "2009-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-de",
+      "date": "2009-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-de",
+      "date": "2010-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-de",
+      "date": "2010-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-de",
+      "date": "2011-11-15",
+      "reason": "per_year_cap"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-de",
+      "date": "2012-11-15",
+      "reason": "per_year_cap"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-de",
+      "date": "2013-7-15",
+      "reason": "under_600_words",
+      "words": 464
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-de",
+      "date": "2014-11-15",
+      "reason": "per_year_cap"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-de",
+      "date": "2015-11-15",
+      "reason": "per_year_cap"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-es",
+      "date": "2004-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-es",
+      "date": "2004-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-es",
+      "date": "2004-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-es",
+      "date": "2005-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-es",
+      "date": "2005-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-es",
+      "date": "2005-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-es",
+      "date": "2006-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-es",
+      "date": "2006-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-es",
+      "date": "2006-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-es",
+      "date": "2007-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-es",
+      "date": "2007-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-es",
+      "date": "2007-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-es",
+      "date": "2008-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-es",
+      "date": "2008-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-es",
+      "date": "2008-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-es",
+      "date": "2009-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-es",
+      "date": "2009-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-es",
+      "date": "2009-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-es",
+      "date": "2010-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-es",
+      "date": "2010-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-es",
+      "date": "2011-11-15",
+      "reason": "per_year_cap"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-es",
+      "date": "2012-11-15",
+      "reason": "per_year_cap"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-es",
+      "date": "2013-11-15",
+      "reason": "per_year_cap"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-es",
+      "date": "2014-7-15",
+      "reason": "under_600_words",
+      "words": 157
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-es",
+      "date": "2014-11-15",
+      "reason": "under_600_words",
+      "words": 575
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-es",
+      "date": "2015-3-15",
+      "reason": "under_600_words",
+      "words": 172
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-it",
+      "date": "2004-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-it",
+      "date": "2004-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-it",
+      "date": "2004-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-it",
+      "date": "2005-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-it",
+      "date": "2005-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-it",
+      "date": "2005-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-it",
+      "date": "2006-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-it",
+      "date": "2006-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-it",
+      "date": "2006-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-it",
+      "date": "2007-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-it",
+      "date": "2007-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-it",
+      "date": "2007-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-it",
+      "date": "2008-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-it",
+      "date": "2008-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-it",
+      "date": "2008-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-it",
+      "date": "2009-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-it",
+      "date": "2009-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-it",
+      "date": "2009-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-it",
+      "date": "2010-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-it",
+      "date": "2010-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-it",
+      "date": "2011-11-15",
+      "reason": "per_year_cap"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-it",
+      "date": "2012-11-15",
+      "reason": "per_year_cap"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-it",
+      "date": "2013-11-15",
+      "reason": "per_year_cap"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-it",
+      "date": "2014-11-15",
+      "reason": "per_year_cap"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-it",
+      "date": "2015-11-15",
+      "reason": "per_year_cap"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-pt",
+      "date": "2004-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-pt",
+      "date": "2004-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-pt",
+      "date": "2004-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-pt",
+      "date": "2005-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-pt",
+      "date": "2005-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-pt",
+      "date": "2005-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-pt",
+      "date": "2006-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-pt",
+      "date": "2006-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-pt",
+      "date": "2006-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-pt",
+      "date": "2007-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-pt",
+      "date": "2007-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-pt",
+      "date": "2007-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-pt",
+      "date": "2008-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-pt",
+      "date": "2008-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-pt",
+      "date": "2008-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-pt",
+      "date": "2009-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-pt",
+      "date": "2009-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-pt",
+      "date": "2009-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-pt",
+      "date": "2010-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-pt",
+      "date": "2010-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-pt",
+      "date": "2010-11-15",
+      "reason": "under_600_words",
+      "words": 353
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-pt",
+      "date": "2011-3-15",
+      "reason": "under_600_words",
+      "words": 5
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-pt",
+      "date": "2011-7-15",
+      "reason": "under_600_words",
+      "words": 34
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-pt",
+      "date": "2011-11-15",
+      "reason": "under_600_words",
+      "words": 3
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-pt",
+      "date": "2012-3-15",
+      "reason": "under_600_words",
+      "words": 521
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-pt",
+      "date": "2012-7-15",
+      "reason": "under_600_words",
+      "words": 6
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-pt",
+      "date": "2012-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-pt",
+      "date": "2013-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-pt",
+      "date": "2013-7-15",
+      "reason": "under_600_words",
+      "words": 6
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-pt",
+      "date": "2013-11-15",
+      "reason": "under_600_words",
+      "words": 17
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-pt",
+      "date": "2014-3-15",
+      "reason": "under_600_words",
+      "words": 20
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-pt",
+      "date": "2014-7-15",
+      "reason": "under_600_words",
+      "words": 6
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-pt",
+      "date": "2014-11-15",
+      "reason": "under_600_words",
+      "words": 6
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-pt",
+      "date": "2015-3-15",
+      "reason": "under_600_words",
+      "words": 6
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-pt",
+      "date": "2015-7-15",
+      "reason": "under_600_words",
+      "words": 6
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-pt",
+      "date": "2015-11-15",
+      "reason": "under_600_words",
+      "words": 6
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-zh",
+      "date": "2004-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-zh",
+      "date": "2004-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-zh",
+      "date": "2004-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-zh",
+      "date": "2005-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-zh",
+      "date": "2005-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-zh",
+      "date": "2005-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-zh",
+      "date": "2006-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-zh",
+      "date": "2006-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-zh",
+      "date": "2006-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-zh",
+      "date": "2007-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-zh",
+      "date": "2007-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-zh",
+      "date": "2007-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-zh",
+      "date": "2008-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-zh",
+      "date": "2008-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-zh",
+      "date": "2008-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-zh",
+      "date": "2009-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-zh",
+      "date": "2009-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-zh",
+      "date": "2009-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-zh",
+      "date": "2010-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-zh",
+      "date": "2010-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-zh",
+      "date": "2010-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-zh",
+      "date": "2011-3-15",
+      "reason": "no_message_lines"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-zh",
+      "date": "2011-7-15",
+      "reason": "no_message_lines"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-zh",
+      "date": "2011-11-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-zh",
+      "date": "2012-3-15",
+      "reason": "no_message_lines"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-zh",
+      "date": "2012-7-15",
+      "reason": "no_message_lines"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-zh",
+      "date": "2012-11-15",
+      "reason": "no_message_lines"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-zh",
+      "date": "2013-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-zh",
+      "date": "2013-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-zh",
+      "date": "2013-11-15",
+      "reason": "under_600_words",
+      "words": 4
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-zh",
+      "date": "2014-3-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-zh",
+      "date": "2014-7-15",
+      "reason": "no_message_lines"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-zh",
+      "date": "2014-11-15",
+      "reason": "no_message_lines"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-zh",
+      "date": "2015-3-15",
+      "reason": "under_600_words",
+      "words": 2
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-zh",
+      "date": "2015-7-15",
+      "reason": "not_found"
+    },
+    {
+      "source": "ubuntu-irc",
+      "channel": "#ubuntu-zh",
+      "date": "2015-11-15",
+      "reason": "not_found"
+    }
+  ]
+}

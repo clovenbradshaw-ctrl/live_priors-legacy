@@ -46,7 +46,7 @@ const CORPUS_DIR = /^\d\d-/;
 // floor from pruning a sidecar because the sidecar is short. The floor
 // measures sources; readings beside them are measured against the source's
 // own bytes (LP3), never against the word-count gate.
-const NOT_A_DOCUMENT = /(^|\/)(ATTRIBUTION\.md|PROVENANCE\.md|VETTING\.md|[a-z0-9-]*manifest\.json)$|\.eot\.json$|\.structure\.json$|\.cv\.md$|^09-source-code\/README\.md$|^11-multi-language\/(concepticon|parallel-classics)\/README\.md$/i;
+const NOT_A_DOCUMENT = /(^|\/)(ATTRIBUTION\.md|PROVENANCE\.md|VETTING\.md|[a-z0-9-]*manifest\.json)$|\.eot\.json$|\.structure\.json$|\.cv\.md$|^09-source-code\/README\.md$|^11-multi-language\/(concepticon|parallel-classics)\/README\.md$|^19-organic-community\/README\.md$/i;
 
 // Children's books run a few dozen to a few hundred words each — that is the
 // genre, not a fragment. The 600-word floor exists to catch abstracts and

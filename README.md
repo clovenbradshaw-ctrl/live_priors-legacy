@@ -10,7 +10,9 @@ This repo **pulls** the sources — not just catalogs them. Texts are stored as 
 ## What's Here
 
 2,100+ documents. The largest section is government and legal, which holds official texts
-published by institutions in 28 jurisdictions.
+published by institutions in 28 jurisdictions. The newest section, `19-organic-community/`,
+holds 297 real human chat-log documents (SMS, IRC, email, Weibo) in English, Chinese,
+German, Spanish and Italian.
 
 | Directory | Content |
 |---|---|
@@ -28,10 +30,23 @@ published by institutions in 28 jurisdictions.
 | `18-childrens-books/` | Pilot pull: 38 books across 17 languages (Global Digital Library + StoryWeaver, African Storybook) — see [`18-childrens-books/ATTRIBUTION.md`](18-childrens-books/ATTRIBUTION.md) |
 | `11-multi-language/concepticon/` | Cross-linguistic concept backbone: 4,165 concept sets linking ~160 fieldwork concept lists across languages (CC BY 4.0) |
 | `11-multi-language/parallel-classics/` | 7 public-domain works (Alice in Wonderland, Pinocchio, Grimms' Fairy Tales, Robinson Crusoe, Gulliver's Travels, Faust Part 1, Perrault's Fairy Tales), 31 editions across 8 languages, same work independently translated — for direct cross-language comparison, "Rosetta Stone" style |
+| `19-organic-community/` | **297 real human chat-log documents** — unedited human typing with typos, slang and informal register across eras and languages: NUS SMS (en/zh, Singlish), CoSEM (Singapore English messages 2016-2022), Ubuntu IRC logs (en/de/es/it, 2004-2015), Enron workplace email (en, 1998-2002, public domain), LCCC Chinese conversation (zh). See [`19-organic-community/README.md`](19-organic-community/README.md) |
 
 See [`SOURCES.md`](SOURCES.md) for the complete catalog with pull status, and
 [`06-government-legal/ATTRIBUTION.md`](06-government-legal/ATTRIBUTION.md) for the rights notice
 each publishing institution requires.
+
+## Real Human Chat Logs (`19-organic-community/`)
+
+The one register the rest of this corpus never carries: **people typing at
+each other** — text messages, IRC support channels, workplace email — with
+the typos, slang, dropped articles and keyboard fumbles of real typing.
+Fetched by `scripts/fetch-chat-logs.mjs` from five already-public research
+corpora spanning 1998-2022 in English, Chinese, German, Spanish and Italian.
+Short messages are aggregated into documents that clear the 600-word floor
+(the same consolidation `consolidate-media-catalogs.mjs` applies to media
+metadata); nothing is rewritten, and everything fetched but rejected is
+recorded in `manifests/chat-logs-manifest.json`.
 
 ## Government & Legal
 
