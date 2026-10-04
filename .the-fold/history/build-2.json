@@ -1,0 +1,357 @@
+{
+  "n": 2,
+  "turn": 1,
+  "entries": [
+    {
+      "kind": "evidence",
+      "task_id": "b2.ask.1",
+      "description": "ask: write me a python program that simulates 100 dice rolls, counts each face, and p",
+      "operator": "NUL",
+      "operator_basis": "produced",
+      "grain": "Ground",
+      "n": 2,
+      "turn": 1,
+      "ground": 1,
+      "ask": "write me a python program that simulates 100 dice rolls, counts each face, and prints a histogram",
+      "seq": 0,
+      "depends_on": [],
+      "evidence": []
+    },
+    {
+      "kind": "propose",
+      "task_id": "b2.v1",
+      "description": "python: simulates 100 dice rolls, counts each face, and prints a his",
+      "operator": "INS",
+      "operator_basis": "produced",
+      "grain": "Figure",
+      "n": 2,
+      "turn": 1,
+      "seg": {
+        "type": "code",
+        "lang": "python",
+        "code": "\"\"\"simulates 100 dice rolls, counts each face, and prints a histogram\"\"\"\nimport random\nimport sys\n\n\ndef simulates_dice_rolls():\n    \"\"\"simulates 100 dice rolls\"\"\"\n    raise NotImplementedError(\"simulates_dice_rolls\")\n\ndef counts_face(previous):\n    \"\"\"counts each face\"\"\"\n    raise NotImplementedError(\"counts_face\")\n\ndef prints_histogram(previous):\n    \"\"\"prints a histogram\"\"\"\n    raise NotImplementedError(\"prints_histogram\")\n\ndef main():\n    r1 = simulates_dice_rolls()\n    print(f\"[step 1 simulates_dice_rolls] {type(r1).__name__}: {repr(r1)[:120]}\", file=sys.stderr)\n    r2 = counts_face(r1)\n    print(f\"[step 2 counts_face] {type(r2).__name__}: {repr(r2)[:120]}\", file=sys.stderr)\n    r3 = prints_histogram(r2)\n    print(f\"[step 3 prints_histogram] {type(r3).__name__}: {repr(r3)[:120]}\", file=sys.stderr)\n    return r3\n\n\nif __name__ == \"__main__\":\n    main()\n"
+      },
+      "caption": "python: simulates 100 dice rolls, counts each face, and prints a his",
+      "instruction": "write me a python program that simulates 100 dice rolls, counts each face, and prints a histogram",
+      "version": 1,
+      "ground": 1,
+      "code": "\"\"\"simulates 100 dice rolls, counts each face, and prints a histogram\"\"\"\nimport random\nimport sys\n\n\ndef simulates_dice_rolls():\n    \"\"\"simulates 100 dice rolls\"\"\"\n    raise NotImplementedError(\"simulates_dice_rolls\")\n\ndef counts_face(previous):\n    \"\"\"counts each face\"\"\"\n    raise NotImplementedError(\"counts_face\")\n\ndef prints_histogram(previous):\n    \"\"\"prints a histogram\"\"\"\n    raise NotImplementedError(\"prints_histogram\")\n\ndef main():\n    r1 = simulates_dice_rolls()\n    print(f\"[step 1 simulates_dice_rolls] {type(r1).__name__}: {repr(r1)[:120]}\", file=sys.stderr)\n    r2 = counts_face(r1)\n    print(f\"[step 2 counts_face] {type(r2).__name__}: {repr(r2)[:120]}\", file=sys.stderr)\n    r3 = prints_histogram(r2)\n    print(f\"[step 3 prints_histogram] {type(r3).__name__}: {repr(r3)[:120]}\", file=sys.stderr)\n    return r3\n\n\nif __name__ == \"__main__\":\n    main()\n",
+      "seq": 1,
+      "depends_on": [],
+      "evidence": []
+    },
+    {
+      "kind": "result",
+      "task_id": "b2.v1",
+      "result": {
+        "ok": false,
+        "data": {
+          "code": 1,
+          "stdout": "",
+          "stderr": "Traceback (most recent call last):\n  File \"/lib/python314.zip/_pyodide/_base.py\", line 597, in eval_code_async\n    await CodeRunner(\n    ...<9 lines>...\n    .run_async(globals, locals)\n  File \"/lib/python314.zip/_pyodide/_base.py\", line 411, in run_async\n    coroutine = eval(self.code, globals, locals)\n  File \"<exec>\", line 29, in <module>\n  File \"<exec>\", line 19, in main\n  File \"<exec>\", line 8, in simulates_dice_rolls\nNotImplementedError: simulates_dice_rolls\n",
+          "timedOut": false,
+          "durationMs": 6493,
+          "dbOps": []
+        }
+      },
+      "params": {
+        "lang": "python",
+        "timeoutMs": null,
+        "maxOutput": 262144,
+        "sandboxed": true
+      },
+      "seq": 2,
+      "depends_on": [],
+      "evidence": []
+    },
+    {
+      "kind": "result",
+      "task_id": "b2.v1",
+      "result": {
+        "ok": false,
+        "data": {
+          "code": 1,
+          "stdout": "",
+          "stderr": "Traceback (most recent call last):\n  File \"/lib/python314.zip/_pyodide/_base.py\", line 597, in eval_code_async\n    await CodeRunner(\n    ...<9 lines>...\n    .run_async(globals, locals)\n  File \"/lib/python314.zip/_pyodide/_base.py\", line 411, in run_async\n    coroutine = eval(self.code, globals, locals)\n  File \"<exec>\", line 29, in <module>\n  File \"<exec>\", line 19, in main\n  File \"<exec>\", line 8, in simulates_dice_rolls\nNotImplementedError: simulates_dice_rolls\n",
+          "timedOut": false,
+          "durationMs": 6505,
+          "dbOps": []
+        }
+      },
+      "params": {
+        "lang": "python",
+        "timeoutMs": null,
+        "maxOutput": 262144,
+        "sandboxed": true
+      },
+      "seq": 3,
+      "depends_on": [],
+      "evidence": []
+    },
+    {
+      "kind": "supersede",
+      "task_id": "b2.v2",
+      "supersedes": "b2.v1",
+      "description": "python: simulates 100 dice rolls, counts each face, and prints a his",
+      "operator": "SYN",
+      "operator_basis": "produced",
+      "grain": "Figure",
+      "n": 2,
+      "turn": 1,
+      "seg": {
+        "type": "code",
+        "lang": "python",
+        "code": "\"\"\"simulates 100 dice rolls, counts each face, and prints a histogram\"\"\"\nimport random\nimport sys\n\n\ndef simulates_dice_rolls():\n    \"\"\"simulates 100 dice rolls\"\"\"\n    raise NotImplementedError(\"simulates_dice_rolls\")\n\ndef counts_face(previous):\n    \"\"\"counts each face\"\"\"\n    raise NotImplementedError(\"counts_face\")\n\ndef prints_histogram(previous):\n    \"\"\"prints a histogram\"\"\"\n    raise NotImplementedError(\"prints_histogram\")\n\ndef main():\n    r1 = simulates_dice_rolls()\n    print(f\"[step 1 simulates_dice_rolls] {type(r1).__name__}: {repr(r1)[:120]}\", file=sys.stderr)\n    r2 = counts_face(r1)\n    print(f\"[step 2 counts_face] {type(r2).__name__}: {repr(r2)[:120]}\", file=sys.stderr)\n    r3 = prints_histogram(r2)\n    print(f\"[step 3 prints_histogram] {type(r3).__name__}: {repr(r3)[:120]}\", file=sys.stderr)\n    return r3\n\n\nif __name__ == \"__main__\":\n    main()\n"
+      },
+      "caption": "python: simulates 100 dice rolls, counts each face, and prints a his",
+      "version": 2,
+      "ground": 1,
+      "code": "\"\"\"simulates 100 dice rolls, counts each face, and prints a histogram\"\"\"\nimport random\nimport sys\n\n\ndef simulates_dice_rolls():\n    \"\"\"simulates 100 dice rolls\"\"\"\n    rolls = [0] * 6\n    for _ in range(100):\n        rolls[randint(0, 5)] += 1\n    return rolls\n\ndef counts_face(previous):\n    \"\"\"counts each face\"\"\"\n    raise NotImplementedError(\"counts_face\")\n\ndef prints_histogram(previous):\n    \"\"\"prints a histogram\"\"\"\n    raise NotImplementedError(\"prints_histogram\")\n\ndef main():\n    r1 = simulates_dice_rolls()\n    print(f\"[step 1 simulates_dice_rolls] {type(r1).__name__}: {repr(r1)[:120]}\", file=sys.stderr)\n    r2 = counts_face(r1)\n    print(f\"[step 2 counts_face] {type(r2).__name__}: {repr(r2)[:120]}\", file=sys.stderr)\n    r3 = prints_histogram(r2)\n    print(f\"[step 3 prints_histogram] {type(r3).__name__}: {repr(r3)[:120]}\", file=sys.stderr)\n    return r3\n\n\nif __name__ == \"__main__\":\n    main()\n",
+      "reason": "simulates_dice_rolls: body from the model, spliced by the instrument",
+      "seq": 4,
+      "depends_on": [],
+      "evidence": []
+    },
+    {
+      "kind": "result",
+      "task_id": "b2.v2",
+      "result": {
+        "ok": false,
+        "data": {
+          "code": 1,
+          "stdout": "",
+          "stderr": "Traceback (most recent call last):\n  File \"/lib/python314.zip/_pyodide/_base.py\", line 597, in eval_code_async\n    await CodeRunner(\n    ...<9 lines>...\n    .run_async(globals, locals)\n  File \"/lib/python314.zip/_pyodide/_base.py\", line 411, in run_async\n    coroutine = eval(self.code, globals, locals)\n  File \"<exec>\", line 32, in <module>\n  File \"<exec>\", line 22, in main\n  File \"<exec>\", line 10, in simulates_dice_rolls\nNameError: name 'randint' is not defined\n",
+          "timedOut": false,
+          "durationMs": 5382,
+          "dbOps": []
+        }
+      },
+      "params": {
+        "lang": "python",
+        "timeoutMs": null,
+        "maxOutput": 262144,
+        "sandboxed": true
+      },
+      "seq": 5,
+      "depends_on": [],
+      "evidence": []
+    },
+    {
+      "kind": "supersede",
+      "task_id": "b2.v3",
+      "supersedes": "b2.v2",
+      "description": "python: simulates 100 dice rolls, counts each face, and prints a his",
+      "operator": "SYN",
+      "operator_basis": "produced",
+      "grain": "Figure",
+      "n": 2,
+      "turn": 1,
+      "seg": {
+        "type": "code",
+        "lang": "python",
+        "code": "\"\"\"simulates 100 dice rolls, counts each face, and prints a histogram\"\"\"\nimport random\nimport sys\n\n\ndef simulates_dice_rolls():\n    \"\"\"simulates 100 dice rolls\"\"\"\n    rolls = [0] * 6\n    for _ in range(100):\n        rolls[randint(0, 5)] += 1\n    return rolls\n\ndef counts_face(previous):\n    \"\"\"counts each face\"\"\"\n    raise NotImplementedError(\"counts_face\")\n\ndef prints_histogram(previous):\n    \"\"\"prints a histogram\"\"\"\n    raise NotImplementedError(\"prints_histogram\")\n\ndef main():\n    r1 = simulates_dice_rolls()\n    print(f\"[step 1 simulates_dice_rolls] {type(r1).__name__}: {repr(r1)[:120]}\", file=sys.stderr)\n    r2 = counts_face(r1)\n    print(f\"[step 2 counts_face] {type(r2).__name__}: {repr(r2)[:120]}\", file=sys.stderr)\n    r3 = prints_histogram(r2)\n    print(f\"[step 3 prints_histogram] {type(r3).__name__}: {repr(r3)[:120]}\", file=sys.stderr)\n    return r3\n\n\nif __name__ == \"__main__\":\n    main()\n"
+      },
+      "caption": "python: simulates 100 dice rolls, counts each face, and prints a his",
+      "version": 3,
+      "ground": 1,
+      "code": "\"\"\"simulates 100 dice rolls, counts each face, and prints a histogram\"\"\"\nimport random\nimport sys\n\n\ndef simulates_dice_rolls():\n    \"\"\"simulates 100 dice rolls\"\"\"\n    rolls = [0] * 6\n    for _ in range(100):\n        rolls[randint(0, 5)] += 1\n    return rolls\n\ndef counts_face(previous):\n    \"\"\"counts each face\"\"\"\n    raise NotImplementedError(\"counts_face\")\n\ndef prints_histogram(previous):\n    \"\"\"prints a histogram\"\"\"\n    raise NotImplementedError(\"prints_histogram\")\n\ndef randint(*args, **kwargs):\n    \"\"\"helper the program calls\"\"\"\n    raise NotImplementedError(\"randint\")\n\ndef main():\n    r1 = simulates_dice_rolls()\n    print(f\"[step 1 simulates_dice_rolls] {type(r1).__name__}: {repr(r1)[:120]}\", file=sys.stderr)\n    r2 = counts_face(r1)\n    print(f\"[step 2 counts_face] {type(r2).__name__}: {repr(r2)[:120]}\", file=sys.stderr)\n    r3 = prints_histogram(r2)\n    print(f\"[step 3 prints_histogram] {type(r3).__name__}: {repr(r3)[:120]}\", file=sys.stderr)\n    return r3\n\n\nif __name__ == \"__main__\":\n    main()\n",
+      "reason": "randint: stub added — the run named it as undefined (dependency, INS)",
+      "seq": 6,
+      "depends_on": [],
+      "evidence": []
+    },
+    {
+      "kind": "supersede",
+      "task_id": "b2.v4",
+      "supersedes": "b2.v3",
+      "description": "python: simulates 100 dice rolls, counts each face, and prints a his",
+      "operator": "SYN",
+      "operator_basis": "produced",
+      "grain": "Figure",
+      "n": 2,
+      "turn": 1,
+      "seg": {
+        "type": "code",
+        "lang": "python",
+        "code": "\"\"\"simulates 100 dice rolls, counts each face, and prints a histogram\"\"\"\nimport random\nimport sys\n\n\ndef simulates_dice_rolls():\n    \"\"\"simulates 100 dice rolls\"\"\"\n    rolls = [0] * 6\n    for _ in range(100):\n        rolls[randint(0, 5)] += 1\n    return rolls\n\ndef counts_face(previous):\n    \"\"\"counts each face\"\"\"\n    raise NotImplementedError(\"counts_face\")\n\ndef prints_histogram(previous):\n    \"\"\"prints a histogram\"\"\"\n    raise NotImplementedError(\"prints_histogram\")\n\ndef randint(*args, **kwargs):\n    \"\"\"helper the program calls\"\"\"\n    raise NotImplementedError(\"randint\")\n\ndef main():\n    r1 = simulates_dice_rolls()\n    print(f\"[step 1 simulates_dice_rolls] {type(r1).__name__}: {repr(r1)[:120]}\", file=sys.stderr)\n    r2 = counts_face(r1)\n    print(f\"[step 2 counts_face] {type(r2).__name__}: {repr(r2)[:120]}\", file=sys.stderr)\n    r3 = prints_histogram(r2)\n    print(f\"[step 3 prints_histogram] {type(r3).__name__}: {repr(r3)[:120]}\", file=sys.stderr)\n    return r3\n\n\nif __name__ == \"__main__\":\n    main()\n"
+      },
+      "caption": "python: simulates 100 dice rolls, counts each face, and prints a his",
+      "version": 4,
+      "ground": 1,
+      "code": "\"\"\"simulates 100 dice rolls, counts each face, and prints a histogram\"\"\"\nimport random\nimport sys\n\n\ndef simulates_dice_rolls():\n    \"\"\"simulates 100 dice rolls\"\"\"\n    rolls = [0] * 6\n    for _ in range(100):\n        rolls[randint(0, 5)] += 1\n    return rolls\n\ndef counts_face(previous):\n    \"\"\"counts each face\"\"\"\n    raise NotImplementedError(\"counts_face\")\n\ndef prints_histogram(previous):\n    \"\"\"prints a histogram\"\"\"\n    raise NotImplementedError(\"prints_histogram\")\n\ndef randint(*args, **kwargs):\n    \"\"\"helper the program calls\"\"\"\n    return simulate_dice_rolls(*args, **kwargs)\n\ndef main():\n    r1 = simulates_dice_rolls()\n    print(f\"[step 1 simulates_dice_rolls] {type(r1).__name__}: {repr(r1)[:120]}\", file=sys.stderr)\n    r2 = counts_face(r1)\n    print(f\"[step 2 counts_face] {type(r2).__name__}: {repr(r2)[:120]}\", file=sys.stderr)\n    r3 = prints_histogram(r2)\n    print(f\"[step 3 prints_histogram] {type(r3).__name__}: {repr(r3)[:120]}\", file=sys.stderr)\n    return r3\n\n\nif __name__ == \"__main__\":\n    main()\n",
+      "reason": "randint: body from the model, spliced by the instrument",
+      "seq": 7,
+      "depends_on": [],
+      "evidence": []
+    },
+    {
+      "kind": "result",
+      "task_id": "b2.v4",
+      "result": {
+        "ok": false,
+        "data": {
+          "code": 1,
+          "stdout": "",
+          "stderr": "Traceback (most recent call last):\n  File \"/lib/python314.zip/_pyodide/_base.py\", line 597, in eval_code_async\n    await CodeRunner(\n    ...<9 lines>...\n    .run_async(globals, locals)\n  File \"/lib/python314.zip/_pyodide/_base.py\", line 411, in run_async\n    coroutine = eval(self.code, globals, locals)\n  File \"<exec>\", line 36, in <module>\n  File \"<exec>\", line 26, in main\n  File \"<exec>\", line 10, in simulates_dice_rolls\n  File \"<exec>\", line 23, in randint\nNameError: name 'simulate_dice_rolls' is not defined. Did you mean: 'simulates_dice_rolls'?\n",
+          "timedOut": false,
+          "durationMs": 5730,
+          "dbOps": []
+        }
+      },
+      "params": {
+        "lang": "python",
+        "timeoutMs": null,
+        "maxOutput": 262144,
+        "sandboxed": true
+      },
+      "seq": 8,
+      "depends_on": [],
+      "evidence": []
+    },
+    {
+      "kind": "supersede",
+      "task_id": "b2.v5",
+      "supersedes": "b2.v4",
+      "description": "python: simulates 100 dice rolls, counts each face, and prints a his",
+      "operator": "SYN",
+      "operator_basis": "produced",
+      "grain": "Figure",
+      "n": 2,
+      "turn": 1,
+      "seg": {
+        "type": "code",
+        "lang": "python",
+        "code": "\"\"\"simulates 100 dice rolls, counts each face, and prints a histogram\"\"\"\nimport random\nimport sys\n\n\ndef simulates_dice_rolls():\n    \"\"\"simulates 100 dice rolls\"\"\"\n    rolls = [0] * 6\n    for _ in range(100):\n        rolls[randint(0, 5)] += 1\n    return rolls\n\ndef counts_face(previous):\n    \"\"\"counts each face\"\"\"\n    raise NotImplementedError(\"counts_face\")\n\ndef prints_histogram(previous):\n    \"\"\"prints a histogram\"\"\"\n    raise NotImplementedError(\"prints_histogram\")\n\ndef randint(*args, **kwargs):\n    \"\"\"helper the program calls\"\"\"\n    return simulate_dice_rolls(*args, **kwargs)\n\ndef main():\n    r1 = simulates_dice_rolls()\n    print(f\"[step 1 simulates_dice_rolls] {type(r1).__name__}: {repr(r1)[:120]}\", file=sys.stderr)\n    r2 = counts_face(r1)\n    print(f\"[step 2 counts_face] {type(r2).__name__}: {repr(r2)[:120]}\", file=sys.stderr)\n    r3 = prints_histogram(r2)\n    print(f\"[step 3 prints_histogram] {type(r3).__name__}: {repr(r3)[:120]}\", file=sys.stderr)\n    return r3\n\n\nif __name__ == \"__main__\":\n    main()\n"
+      },
+      "caption": "python: simulates 100 dice rolls, counts each face, and prints a his",
+      "version": 5,
+      "ground": 1,
+      "code": "\"\"\"simulates 100 dice rolls, counts each face, and prints a histogram\"\"\"\nimport random\nimport sys\n\n\ndef simulates_dice_rolls():\n    \"\"\"simulates 100 dice rolls\"\"\"\n    rolls = [0] * 6\n    for _ in range(100):\n        rolls[randint(0, 5)] += 1\n    return rolls\n\ndef counts_face(previous):\n    \"\"\"counts each face\"\"\"\n    face_counts = {}\n    for die in previous:\n        if die in face_counts:\n            face_counts[die] += 1\n        else:\n            face_counts[die] = 1\n    \n    return face_counts\n\ndef prints_histogram(previous):\n    \"\"\"prints a histogram\"\"\"\n    raise NotImplementedError(\"prints_histogram\")\n\ndef randint(*args, **kwargs):\n    \"\"\"helper the program calls\"\"\"\n    return simulate_dice_rolls(*args, **kwargs)\n\ndef main():\n    r1 = simulates_dice_rolls()\n    print(f\"[step 1 simulates_dice_rolls] {type(r1).__name__}: {repr(r1)[:120]}\", file=sys.stderr)\n    r2 = counts_face(r1)\n    print(f\"[step 2 counts_face] {type(r2).__name__}: {repr(r2)[:120]}\", file=sys.stderr)\n    r3 = prints_histogram(r2)\n    print(f\"[step 3 prints_histogram] {type(r3).__name__}: {repr(r3)[:120]}\", file=sys.stderr)\n    return r3\n\n\nif __name__ == \"__main__\":\n    main()\n",
+      "reason": "counts_face: body from the model, spliced by the instrument",
+      "seq": 9,
+      "depends_on": [],
+      "evidence": []
+    },
+    {
+      "kind": "result",
+      "task_id": "b2.v5",
+      "result": {
+        "ok": false,
+        "data": {
+          "code": 1,
+          "stdout": "",
+          "stderr": "Traceback (most recent call last):\n  File \"/lib/python314.zip/_pyodide/_base.py\", line 597, in eval_code_async\n    await CodeRunner(\n    ...<9 lines>...\n    .run_async(globals, locals)\n  File \"/lib/python314.zip/_pyodide/_base.py\", line 411, in run_async\n    coroutine = eval(self.code, globals, locals)\n  File \"<exec>\", line 43, in <module>\n  File \"<exec>\", line 33, in main\n  File \"<exec>\", line 10, in simulates_dice_rolls\n  File \"<exec>\", line 30, in randint\nNameError: name 'simulate_dice_rolls' is not defined. Did you mean: 'simulates_dice_rolls'?\n",
+          "timedOut": false,
+          "durationMs": 5441,
+          "dbOps": []
+        }
+      },
+      "params": {
+        "lang": "python",
+        "timeoutMs": null,
+        "maxOutput": 262144,
+        "sandboxed": true
+      },
+      "seq": 10,
+      "depends_on": [],
+      "evidence": []
+    },
+    {
+      "kind": "supersede",
+      "task_id": "b2.v6",
+      "supersedes": "b2.v5",
+      "description": "python: simulates 100 dice rolls, counts each face, and prints a his",
+      "operator": "SYN",
+      "operator_basis": "produced",
+      "grain": "Figure",
+      "n": 2,
+      "turn": 1,
+      "seg": {
+        "type": "code",
+        "lang": "python",
+        "code": "\"\"\"simulates 100 dice rolls, counts each face, and prints a histogram\"\"\"\nimport random\nimport sys\n\n\ndef simulates_dice_rolls():\n    \"\"\"simulates 100 dice rolls\"\"\"\n    rolls = [0] * 6\n    for _ in range(100):\n        rolls[randint(0, 5)] += 1\n    return rolls\n\ndef counts_face(previous):\n    \"\"\"counts each face\"\"\"\n    face_counts = {}\n    for die in previous:\n        if die in face_counts:\n            face_counts[die] += 1\n        else:\n            face_counts[die] = 1\n    \n    return face_counts\n\ndef prints_histogram(previous):\n    \"\"\"prints a histogram\"\"\"\n    raise NotImplementedError(\"prints_histogram\")\n\ndef randint(*args, **kwargs):\n    \"\"\"helper the program calls\"\"\"\n    return simulate_dice_rolls(*args, **kwargs)\n\ndef main():\n    r1 = simulates_dice_rolls()\n    print(f\"[step 1 simulates_dice_rolls] {type(r1).__name__}: {repr(r1)[:120]}\", file=sys.stderr)\n    r2 = counts_face(r1)\n    print(f\"[step 2 counts_face] {type(r2).__name__}: {repr(r2)[:120]}\", file=sys.stderr)\n    r3 = prints_histogram(r2)\n    print(f\"[step 3 prints_histogram] {type(r3).__name__}: {repr(r3)[:120]}\", file=sys.stderr)\n    return r3\n\n\nif __name__ == \"__main__\":\n    main()\n"
+      },
+      "caption": "python: simulates 100 dice rolls, counts each face, and prints a his",
+      "version": 6,
+      "ground": 1,
+      "code": "\"\"\"simulates 100 dice rolls, counts each face, and prints a histogram\"\"\"\nimport random\nimport sys\n\n\ndef simulates_dice_rolls():\n    \"\"\"simulates 100 dice rolls\"\"\"\n    rolls = [0] * 6\n    for _ in range(100):\n        rolls[randint(0, 5)] += 1\n    return rolls\n\ndef counts_face(previous):\n    \"\"\"counts each face\"\"\"\n    face_counts = {}\n    for die in previous:\n        if die in face_counts:\n            face_counts[die] += 1\n        else:\n            face_counts[die] = 1\n    \n    return face_counts\n\ndef prints_histogram(previous):\n    \"\"\"prints a histogram\"\"\"\n    raise NotImplementedError(\"prints_histogram\")\n\ndef randint(*args, **kwargs):\n    \"\"\"helper the program calls\"\"\"\n    return simulate_dice_rolls(*args, **kwargs)\n\ndef simulate_dice_rolls(*args, **kwargs):\n    \"\"\"helper the program calls\"\"\"\n    raise NotImplementedError(\"simulate_dice_rolls\")\n\ndef main():\n    r1 = simulates_dice_rolls()\n    print(f\"[step 1 simulates_dice_rolls] {type(r1).__name__}: {repr(r1)[:120]}\", file=sys.stderr)\n    r2 = counts_face(r1)\n    print(f\"[step 2 counts_face] {type(r2).__name__}: {repr(r2)[:120]}\", file=sys.stderr)\n    r3 = prints_histogram(r2)\n    print(f\"[step 3 prints_histogram] {type(r3).__name__}: {repr(r3)[:120]}\", file=sys.stderr)\n    return r3\n\n\nif __name__ == \"__main__\":\n    main()\n",
+      "reason": "simulate_dice_rolls: stub added — the run named it as undefined (dependency, INS)",
+      "seq": 11,
+      "depends_on": [],
+      "evidence": []
+    },
+    {
+      "kind": "supersede",
+      "task_id": "b2.v7",
+      "supersedes": "b2.v6",
+      "description": "python: simulates 100 dice rolls, counts each face, and prints a his",
+      "operator": "SYN",
+      "operator_basis": "produced",
+      "grain": "Figure",
+      "n": 2,
+      "turn": 1,
+      "seg": {
+        "type": "code",
+        "lang": "python",
+        "code": "\"\"\"simulates 100 dice rolls, counts each face, and prints a histogram\"\"\"\nimport random\nimport sys\n\n\ndef simulates_dice_rolls():\n    \"\"\"simulates 100 dice rolls\"\"\"\n    rolls = [0] * 6\n    for _ in range(100):\n        rolls[randint(0, 5)] += 1\n    return rolls\n\ndef counts_face(previous):\n    \"\"\"counts each face\"\"\"\n    face_counts = {}\n    for die in previous:\n        if die in face_counts:\n            face_counts[die] += 1\n        else:\n            face_counts[die] = 1\n    \n    return face_counts\n\ndef prints_histogram(previous):\n    \"\"\"prints a histogram\"\"\"\n    raise NotImplementedError(\"prints_histogram\")\n\ndef randint(*args, **kwargs):\n    \"\"\"helper the program calls\"\"\"\n    return simulate_dice_rolls(*args, **kwargs)\n\ndef simulate_dice_rolls(*args, **kwargs):\n    \"\"\"helper the program calls\"\"\"\n    raise NotImplementedError(\"simulate_dice_rolls\")\n\ndef main():\n    r1 = simulates_dice_rolls()\n    print(f\"[step 1 simulates_dice_rolls] {type(r1).__name__}: {repr(r1)[:120]}\", file=sys.stderr)\n    r2 = counts_face(r1)\n    print(f\"[step 2 counts_face] {type(r2).__name__}: {repr(r2)[:120]}\", file=sys.stderr)\n    r3 = prints_histogram(r2)\n    print(f\"[step 3 prints_histogram] {type(r3).__name__}: {repr(r3)[:120]}\", file=sys.stderr)\n    return r3\n\n\nif __name__ == \"__main__\":\n    main()\n"
+      },
+      "caption": "python: simulates 100 dice rolls, counts each face, and prints a his",
+      "version": 7,
+      "ground": 1,
+      "code": "\"\"\"simulates 100 dice rolls, counts each face, and prints a histogram\"\"\"\nimport random\nimport sys\n\n\ndef simulates_dice_rolls():\n    \"\"\"simulates 100 dice rolls\"\"\"\n    rolls = [0] * 6\n    for _ in range(100):\n        rolls[randint(0, 5)] += 1\n    return rolls\n\ndef counts_face(previous):\n    \"\"\"counts each face\"\"\"\n    face_counts = {}\n    for die in previous:\n        if die in face_counts:\n            face_counts[die] += 1\n        else:\n            face_counts[die] = 1\n    \n    return face_counts\n\ndef prints_histogram(previous):\n    \"\"\"prints a histogram\"\"\"\n    raise NotImplementedError(\"prints_histogram\")\n\ndef randint(*args, **kwargs):\n    \"\"\"helper the program calls\"\"\"\n    return simulate_dice_rolls(*args, **kwargs)\n\ndef simulate_dice_rolls(*args, **kwargs):\n    \"\"\"helper the program calls\"\"\"\n    return counts_face(10, 6)\n\ndef main():\n    r1 = simulates_dice_rolls()\n    print(f\"[step 1 simulates_dice_rolls] {type(r1).__name__}: {repr(r1)[:120]}\", file=sys.stderr)\n    r2 = counts_face(r1)\n    print(f\"[step 2 counts_face] {type(r2).__name__}: {repr(r2)[:120]}\", file=sys.stderr)\n    r3 = prints_histogram(r2)\n    print(f\"[step 3 prints_histogram] {type(r3).__name__}: {repr(r3)[:120]}\", file=sys.stderr)\n    return r3\n\n\nif __name__ == \"__main__\":\n    main()\n",
+      "reason": "simulate_dice_rolls: body from the model, spliced by the instrument",
+      "seq": 12,
+      "depends_on": [],
+      "evidence": []
+    },
+    {
+      "kind": "result",
+      "task_id": "b2.v7",
+      "result": {
+        "ok": false,
+        "data": {
+          "code": 1,
+          "stdout": "",
+          "stderr": "Traceback (most recent call last):\n  File \"/lib/python314.zip/_pyodide/_base.py\", line 597, in eval_code_async\n    await CodeRunner(\n    ...<9 lines>...\n    .run_async(globals, locals)\n  File \"/lib/python314.zip/_pyodide/_base.py\", line 411, in run_async\n    coroutine = eval(self.code, globals, locals)\n  File \"<exec>\", line 47, in <module>\n  File \"<exec>\", line 37, in main\n  File \"<exec>\", line 10, in simulates_dice_rolls\n  File \"<exec>\", line 30, in randint\n  File \"<exec>\", line 34, in simulate_dice_rolls\nTypeError: counts_face() takes 1 positional argument but 2 were given\n",
+          "timedOut": false,
+          "durationMs": 5553,
+          "dbOps": []
+        }
+      },
+      "params": {
+        "lang": "python",
+        "timeoutMs": null,
+        "maxOutput": 262144,
+        "sandboxed": true
+      },
+      "seq": 13,
+      "depends_on": [],
+      "evidence": []
+    },
+    {
+      "kind": "result",
+      "task_id": "b2.v7",
+      "result": {
+        "ok": false,
+        "data": {
+          "code": 1,
+          "stdout": "",
+          "stderr": "Traceback (most recent call last):\n  File \"/lib/python314.zip/_pyodide/_base.py\", line 597, in eval_code_async\n    await CodeRunner(\n    ...<9 lines>...\n    .run_async(globals, locals)\n  File \"/lib/python314.zip/_pyodide/_base.py\", line 411, in run_async\n    coroutine = eval(self.code, globals, locals)\n  File \"<exec>\", line 47, in <module>\n  File \"<exec>\", line 37, in main\n  File \"<exec>\", line 10, in simulates_dice_rolls\n  File \"<exec>\", line 30, in randint\n  File \"<exec>\", line 34, in simulate_dice_rolls\nTypeError: counts_face() takes 1 positional argument but 2 were given\n",
+          "timedOut": false,
+          "durationMs": 5235,
+          "dbOps": []
+        }
+      },
+      "params": {
+        "lang": "python",
+        "timeoutMs": null,
+        "maxOutput": 262144,
+        "sandboxed": true
+      },
+      "seq": 14,
+      "depends_on": [],
+      "evidence": []
+    }
+  ],
+  "draft": null
+}
