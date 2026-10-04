@@ -1,0 +1,186 @@
+{
+  "purpose": "the works the Fold's archon card quotes — each in its own language and a public-domain English translation (the-fold archon-canon.js reads every quoted line back out of these files)",
+  "pulled": [
+    {
+      "slug": "eddukvaedi",
+      "file": "11-multi-language/old-norse-originals/eddukvaedi.txt",
+      "words": 55005,
+      "parts": 46,
+      "bytes": 346576,
+      "sha256": "b49c61cdd705959b05f95e026e9d9c867e6be012fe02679a3382e1b14c6dceb6",
+      "source_url": "https://heimskringla.no/wiki/Eddukv%C3%A6%C3%B0i",
+      "fetched_at": "2026-09-17T05:18:21.143Z"
+    },
+    {
+      "slug": "snorra-edda",
+      "file": "11-multi-language/old-norse-originals/snorra-edda.txt",
+      "words": 52377,
+      "parts": 6,
+      "bytes": 332967,
+      "sha256": "3399bc2c36362aeb3f419f3bbf25db5b7ae90888904f1a837f3e62a2a42531b6",
+      "source_url": "https://is.wikisource.org/wiki/Snorra_Edda",
+      "fetched_at": "2026-09-17T05:18:27.401Z"
+    },
+    {
+      "slug": "hippocrates-aphorisms",
+      "file": "11-multi-language/greek-originals/hippocrates-aphorisms.txt",
+      "words": 7664,
+      "parts": 7,
+      "bytes": 97019,
+      "sha256": "181509a77451fb64dc50ad152ab9f8946e0dc783d36f4faa1685e12c681b0cf3",
+      "source_url": "https://el.wikisource.org/wiki/%CE%91%CF%86%CE%BF%CF%81%CE%B9%CF%83%CE%BC%CE%BF%CE%AF",
+      "fetched_at": "2026-09-17T05:13:34.920Z"
+    },
+    {
+      "slug": "ranke-geschichten-1824",
+      "file": "11-multi-language/german-originals/ranke-geschichten-der-romanischen-und-germanischen-voelker-1824.txt",
+      "words": 130038,
+      "parts": 1,
+      "bytes": 846019,
+      "sha256": "32d0c33b2e04bb17263c9af9e4404689481e46c32e2c89cbc68eb132ba352a0d",
+      "source_url": "https://archive.org/details/10716982bsb",
+      "fetched_at": "2026-09-17T05:13:36.522Z"
+    },
+    {
+      "slug": "ashby-introduction-to-cybernetics",
+      "file": "05-academic-papers/open-access-books/ashby/ashby-1956-an-introduction-to-cybernetics.txt",
+      "words": 87875,
+      "parts": 1,
+      "bytes": 615767,
+      "sha256": "842e5f81247c9839766398191e8c2ce67e15be506cf1a0b7c04d3a51167107b7",
+      "source_url": "https://pespmc1.vub.ac.be/books/IntroCyb.pdf",
+      "fetched_at": "2026-09-17T05:13:42.268Z"
+    },
+    {
+      "slug": "bellows-1923-the-poetic-edda",
+      "file": "11-multi-language/translations-en/bellows-1923-the-poetic-edda.txt",
+      "words": 156207,
+      "parts": 1,
+      "bytes": 958136,
+      "sha256": "2f1ebdafd9fb398401ad4eddec9a91fd0e280bb685c9221a97fa460604dcaae7",
+      "source_url": "https://www.gutenberg.org/ebooks/73533",
+      "fetched_at": "2026-09-17T05:13:42.567Z"
+    },
+    {
+      "slug": "anderson-1880-the-younger-edda",
+      "file": "11-multi-language/translations-en/anderson-1880-the-younger-edda.txt",
+      "words": 67043,
+      "parts": 1,
+      "bytes": 387971,
+      "sha256": "8a8b083dd98a426d4faa3dc57ac3d672e8456962f19af9b180487abe3756d3df",
+      "source_url": "https://www.gutenberg.org/ebooks/18947",
+      "fetched_at": "2026-09-17T05:13:42.688Z"
+    },
+    {
+      "slug": "myers-1874-the-extant-odes-of-pindar",
+      "file": "11-multi-language/translations-en/myers-1874-the-extant-odes-of-pindar.txt",
+      "words": 52169,
+      "parts": 1,
+      "bytes": 301693,
+      "sha256": "d04f590d43aca82db08c20cecca0c086089f55ee43858496cf341cfc2cb4eba5",
+      "source_url": "https://www.gutenberg.org/ebooks/10717",
+      "fetched_at": "2026-09-17T05:13:42.781Z"
+    },
+    {
+      "slug": "stewart-long-1880-plutarchs-lives-volume-1",
+      "file": "11-multi-language/translations-en/stewart-long-1880-plutarchs-lives-volume-1.txt",
+      "words": 184345,
+      "parts": 1,
+      "bytes": 1064538,
+      "sha256": "5e3bbd0793c43cbba4e0f6adda486098632af7f518ebd3a6e7431da7b3d65ae7",
+      "source_url": "https://www.gutenberg.org/ebooks/14033",
+      "fetched_at": "2026-09-17T05:13:43.032Z"
+    },
+    {
+      "slug": "jowett-plato-sophist",
+      "file": "11-multi-language/translations-en/jowett-plato-sophist.txt",
+      "words": 45254,
+      "parts": 1,
+      "bytes": 267278,
+      "sha256": "16590b44f74a3e704444a8ac62e8a514133c7b39016cf69f452747abac38474e",
+      "source_url": "https://www.gutenberg.org/ebooks/1735",
+      "fetched_at": "2026-09-17T05:13:43.118Z"
+    },
+    {
+      "slug": "spillan-livy-history-of-rome-books-1-8",
+      "file": "11-multi-language/translations-en/spillan-livy-history-of-rome-books-1-8.txt",
+      "words": 232477,
+      "parts": 1,
+      "bytes": 1372541,
+      "sha256": "f5aa090a1e001e050578039339a57d5fe9b807821387531ff513b1fe7a95ccec",
+      "source_url": "https://www.gutenberg.org/ebooks/19725",
+      "fetched_at": "2026-09-17T05:13:43.373Z"
+    },
+    {
+      "slug": "adams-1849-the-genuine-works-of-hippocrates-volume-2",
+      "file": "11-multi-language/translations-en/adams-1849-the-genuine-works-of-hippocrates-volume-2.txt",
+      "words": 101318,
+      "parts": 1,
+      "bytes": 1204444,
+      "sha256": "0f38c614b496ebac13b7736414bd709ddc89e24764f4b969986721d1962339d1",
+      "source_url": "https://archive.org/details/genuineworksofhi02hippuoft",
+      "fetched_at": "2026-09-17T05:13:45.542Z"
+    },
+    {
+      "slug": "stcherbatsky-1927-the-conception-of-buddhist-nirvana",
+      "file": "11-multi-language/translations-en/stcherbatsky-1927-the-conception-of-buddhist-nirvana.txt",
+      "words": 76650,
+      "parts": 1,
+      "bytes": 633224,
+      "sha256": "0f245d54eee9c42d4b782875cceee4588cecc2346551d1ef6e151483cef2be4d",
+      "source_url": "https://archive.org/details/Th.Stcherbatsky1927TheConceptionOfBuddhistNirvanaCANDRAKIRTIPRASNNAPADAMADHYAMAKAVRTTICHAPTERIXXV",
+      "fetched_at": "2026-09-17T05:13:53.655Z"
+    },
+    {
+      "slug": "ashworth-1887-ranke-history-of-the-latin-and-teutonic-nations",
+      "file": "11-multi-language/translations-en/ashworth-1887-ranke-history-of-the-latin-and-teutonic-nations.txt",
+      "words": 142706,
+      "parts": 1,
+      "bytes": 1122258,
+      "sha256": "ed66a565d16ab50f25f4cfd2469935c24201c0bd7bf17866530c0f86b6422929",
+      "source_url": "https://archive.org/details/historyoflatinte01rank",
+      "fetched_at": "2026-09-17T05:13:57.399Z"
+    }
+  ],
+  "rejected": [],
+  "already_in_corpus": [
+    {
+      "file": "11-multi-language/greek-originals/plato-republic.txt",
+      "present": true
+    },
+    {
+      "file": "11-multi-language/greek-originals/plato-sophist.txt",
+      "present": true
+    },
+    {
+      "file": "11-multi-language/greek-originals/pindar-pythian-odes.txt",
+      "present": true
+    },
+    {
+      "file": "11-multi-language/greek-originals/plutarch-life-of-solon.txt",
+      "present": true
+    },
+    {
+      "file": "11-multi-language/sanskrit-originals/nagarjuna-mulamadhyamakakarika.txt",
+      "present": true
+    },
+    {
+      "file": "11-multi-language/latin-originals/livy-history.txt",
+      "present": true
+    },
+    {
+      "file": "01-literature-books/gutenberg/pg55201_The_Republic_by_Plato.txt",
+      "present": true
+    }
+  ],
+  "not_fetched": [
+    {
+      "work": "Hans Kelsen, Reine Rechtslehre (1934; 2nd ed. 1960)",
+      "reason": "under copyright (Kelsen d. 1973); the card quotes the Twelve Tables via Livy 7.17.12 for the precedence rule instead, and says so"
+    },
+    {
+      "work": "Deutsches Textarchiv transcription of Ranke's 1824 preface",
+      "reason": "behind a JavaScript bot check this script does not get past; the BSB scan OCR is used instead"
+    }
+  ]
+}

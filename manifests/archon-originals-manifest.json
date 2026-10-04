@@ -1,0 +1,106 @@
+{
+  "source": "Wikisource (zh/ar/el/la/fr/de) + GRETIL + Project Gutenberg",
+  "license": "public domain originals (pre-1929 / ancient); fair-use archons are NOT fetched (short credited phrases only)",
+  "fetched_at": "2026-09-15T22:04:12.044Z",
+  "pulled": [
+    {
+      "slug": "shiji",
+      "title": "司馬遷，史記 (Sima Qian, Records of the Grand Historian)",
+      "words": 468647,
+      "parts": 130,
+      "file": "11-multi-language/chinese-originals/shiji.txt"
+    },
+    {
+      "slug": "frege-ueber-begriff-und-gegenstand",
+      "title": "Gottlob Frege, Ueber Begriff und Gegenstand (1892)",
+      "words": 5345,
+      "parts": 1,
+      "file": "11-multi-language/german-originals/frege-ueber-begriff-und-gegenstand.txt"
+    },
+    {
+      "slug": "dai-zhen",
+      "title": "戴震，孟子字義疏證 (Dai Zhen, An Evidential Commentary on the Meaning of Terms in the Mencius)",
+      "words": 26819,
+      "parts": 1,
+      "file": "11-multi-language/chinese-originals/dai-zhen.txt"
+    },
+    {
+      "slug": "strunk-elements-of-style",
+      "title": "The Elements of Style (1918)",
+      "words": 13902,
+      "parts": 1,
+      "file": "01-literature-books/gutenberg/pg37134_The_Elements_of_Style.txt"
+    },
+    {
+      "slug": "plutarch-life-of-solon",
+      "title": "Πλούταρχος, Βίοι Παράλληλοι/Σόλων (Plutarch, Life of Solon — quotes Solon's own verses)",
+      "words": 8981,
+      "parts": 1,
+      "file": "11-multi-language/greek-originals/plutarch-life-of-solon.txt"
+    },
+    {
+      "slug": "martial-liber-spectaculorum",
+      "title": "M. Valerius Martialis, Liber spectaculorum (Martial, On the Games)",
+      "words": 1530,
+      "parts": 1,
+      "file": "11-multi-language/latin-originals/martial-liber-spectaculorum.txt"
+    },
+    {
+      "slug": "shuowen-jiezi",
+      "title": "許慎，說文解字 (Xu Shen, Shuowen Jiezi)",
+      "words": 115987,
+      "parts": 15,
+      "file": "11-multi-language/chinese-originals/shuowen-jiezi.txt"
+    },
+    {
+      "slug": "jiuzhang-suanshu",
+      "title": "九章算術 (Nine Chapters on the Mathematical Art)",
+      "words": 51414,
+      "parts": 12,
+      "file": "11-multi-language/chinese-originals/jiuzhang-suanshu.txt"
+    },
+    {
+      "slug": "ibn-al-haytham-manazir",
+      "title": "ابن الهيثم، كتاب المناظر (Ibn al-Haytham, Book of Optics)",
+      "words": 45410,
+      "parts": 16,
+      "file": "11-multi-language/arabic-originals/ibn-al-haytham-manazir.txt"
+    },
+    {
+      "slug": "martial-epigrammata",
+      "title": "M. Valerius Martialis, Epigrammata (Martial, Epigrams)",
+      "words": 64339,
+      "parts": 14,
+      "file": "11-multi-language/latin-originals/martial-epigrammata.txt"
+    },
+    {
+      "slug": "xunzi",
+      "title": "荀子 (Xunzi)",
+      "words": 100955,
+      "parts": 33,
+      "file": "11-multi-language/chinese-originals/xunzi.txt"
+    },
+    {
+      "slug": "mozi",
+      "title": "墨子 (Mozi)",
+      "words": 132716,
+      "parts": 54,
+      "file": "11-multi-language/chinese-originals/mozi.txt"
+    },
+    {
+      "slug": "sahih-al-bukhari",
+      "title": "البخاري، صحيح البخاري (al-Bukhari, Sahih)",
+      "words": 593585,
+      "parts": 76,
+      "file": "11-multi-language/arabic-originals/sahih-al-bukhari.txt"
+    },
+    {
+      "slug": "bencao-gangmu",
+      "title": "李時珍，本草綱目 (Li Shizhen, Bencao Gangmu)",
+      "words": 1266833,
+      "parts": 65,
+      "file": "11-multi-language/chinese-originals/bencao-gangmu.txt"
+    }
+  ],
+  "rejected": []
+}
