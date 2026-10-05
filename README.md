@@ -1,3 +1,8 @@
+> ## ⚠️ LEGACY — frozen, no longer maintained
+> This repository is the **old copy** of `live_priors` and is kept for history only.
+> The Fold now lives under the `scores-patch-points` account: [scores-patch-points/ethos](https://github.com/scores-patch-points/ethos).
+> Do not file issues or send changes here.
+
 # live_priors
 
 A living corpus of source texts, organized by the 17 categories from [`eoPriors/docs/corpus-sources.md`](https://github.com/clovenbradshaw-ctrl/eoPriors/blob/main/docs/corpus-sources.md), plus one added category (children's books, `18-`) for bootstrapping LaVar's reading system.
