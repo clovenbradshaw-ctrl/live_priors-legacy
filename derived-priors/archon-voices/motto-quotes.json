@@ -1,0 +1,224 @@
+{
+ "schema": "ArchonMotto@1",
+ "giver": "Each `q` is copied character for character from the module or charter named in `cite`, at the line named (counted against the file, not estimated). `origCite` says where the EXPRESSION (transliteration + gloss) is named; \"handle\" means the term is the historical figure's own and is not in either repo. `script` is the non-Latin spelling, added here: no module carries it.",
+ "history": "Lived as ARCHON_QUOTES in the-fold/index.html (2026-09-15), feeding a rotating chat-hero motto. That empty-state hero was deleted 2026-09-23 and the table was dead code; on 2026-09-28 the data moved here, so archon material lives in live_priors (content) and eoreader7 (organs), not in the surface.",
+ "cite_note": "`cite` names the file and line the quote was located at on 2026-09-28, after the archon organs moved to eoreader7 (`eoreader7 native/organs/…`) — several of the original line numbers had already drifted. Where the module's wording no longer contains the quote verbatim, `cite` says so instead of guessing a line. `the-fold …` cites name files still in the-fold (heimdall-client.js).",
+ "known_limitation": "`canon` (the archon's own canonical line) was never populated; entries with `need` name the source that would supply it. These are the module authors' English lines with the original-language expression beside them, not the archons' own words. Two Nāgārjuna entries (`located: false`) are not found verbatim in nagarjuna.js as it stands today; they are kept as the table had them and should be re-sourced or dropped before any use.",
+ "quotes": [
+  {
+   "q": "only variety can absorb variety",
+   "who": "Ashby",
+   "cite": "eoreader7 native/organs/ashby.js:5-6",
+   "translit": "requisite variety",
+   "gloss": "Ashby's own law, in his own English",
+   "origCite": "eoreader7 native/organs/ashby.js (transliteration named in the header; line not re-verified after the move)",
+   "need": "W. Ross Ashby, An Introduction to Cybernetics / Design for a Brain — the law of requisite variety in his own words (English)",
+   "located": true
+  },
+  {
+   "q": "the one who never becomes an object of his own knowledge",
+   "who": "Ashby",
+   "cite": "eoreader7 native/organs/ashby.js:6-7",
+   "translit": "homeostat",
+   "gloss": "the machine that keeps itself stable",
+   "origCite": "eoreader7 native/organs/ashby.js (transliteration named in the header; line not re-verified after the move)",
+   "need": "W. Ross Ashby, An Introduction to Cybernetics / Design for a Brain — the law of requisite variety in his own words (English)",
+   "located": true
+  },
+  {
+   "q": "is a silent question answered with a decline, not a fabrication?",
+   "who": "Aletheia",
+   "cite": "eoreader7 native/organs/aletheia.js:32-33",
+   "translit": "aletheia",
+   "gloss": "un-concealment",
+   "script": "ἀλήθεια",
+   "origCite": "eoreader7 native/organs/aletheia.js (transliteration named in the header; line not re-verified after the move)",
+   "need": "Plato on ἀλήθεια — Greek + English",
+   "located": true
+  },
+  {
+   "q": "A figure that fails any is COLD — typed, refused, never silently bound.",
+   "who": "Clippy",
+   "cite": "eoreader7 native/organs/clippy.js:12",
+   "gif": true,
+   "translit": "the paperclip",
+   "gloss": "the one who decides what is in context",
+   "origCite": "eoreader7 native/organs/clippy.js (transliteration named in the header; line not re-verified after the move)",
+   "need": "no original source: the paperclip is this project's own handle",
+   "located": true
+  },
+  {
+   "q": "A GAP IS NEVER A VERDICT",
+   "who": "Kairos",
+   "cite": "eoreader7 native/organs/kairos.js:50",
+   "translit": "kairos",
+   "gloss": "the opportune moment, the qualitative present",
+   "script": "καιρός",
+   "origCite": "eoreader7 native/organs/kairos.js (transliteration named in the header; line not re-verified after the move)",
+   "need": "a Greek source on καιρός (Pindar, Hippocrates) — Greek + English",
+   "located": true
+  },
+  {
+   "q": "the difference that makes a difference",
+   "who": "Kairos",
+   "cite": "eoreader7 native/organs/kairos.js:13-14",
+   "translit": "kairos, as opposed to chronos",
+   "gloss": "the opportune moment against linear time",
+   "script": "καιρός / χρόνος",
+   "origCite": "eoreader7 native/organs/kairos.js (transliteration named in the header; line not re-verified after the move)",
+   "need": "a Greek source on καιρός (Pindar, Hippocrates) — Greek + English",
+   "located": true
+  },
+  {
+   "q": "FORGETTING IS OF THE PRESENT, NEVER DELETION",
+   "who": "Muninn",
+   "cite": "eoreader7 native/organs/muninn.js:57",
+   "translit": "Muninn",
+   "gloss": "memory — Odin's other raven",
+   "origCite": "eoreader7 native/organs/muninn.js (transliteration named in the header; line not re-verified after the move)",
+   "need": "Grímnismál, the ravens' stanza (Poetic Edda) — Old Norse + English",
+   "located": true
+  },
+  {
+   "q": "A RECALL THAT READ NOTHING CONVICTS NOTHING",
+   "who": "Muninn",
+   "cite": "eoreader7 native/organs/muninn.js:66",
+   "translit": "Muninn",
+   "gloss": "memory — the remembered account, brought back on cue",
+   "origCite": "eoreader7 native/organs/muninn.js (transliteration named in the header; line not re-verified after the move)",
+   "need": "Grímnismál, the ravens' stanza (Poetic Edda) — Old Norse + English",
+   "located": true
+  },
+  {
+   "q": "a preference dressed as a fact and nothing is a promise",
+   "who": "Huginn",
+   "cite": "eoreader7 native/organs/huginn.js:37",
+   "translit": "Huginn",
+   "gloss": "thought — the raven who flies out and brings back what he saw",
+   "origCite": "eoreader7 native/organs/huginn.js (transliteration named in the header; line not re-verified after the move)",
+   "need": "Grímnismál, the ravens' stanza (Poetic Edda) — Old Norse + English",
+   "located": true
+  },
+  {
+   "q": "A wrong answer never hops — it is the caller's",
+   "who": "Huginn",
+   "cite": "eoreader7 native/organs/huginn.js:46-47",
+   "translit": "Huginn",
+   "gloss": "thought",
+   "origCite": "eoreader7 native/organs/huginn.js (transliteration named in the header; line not re-verified after the move)",
+   "need": "Grímnismál, the ravens' stanza (Poetic Edda) — Old Norse + English",
+   "located": true
+  },
+  {
+   "q": "A wrong filling collapses under examination; a grounded one holds.",
+   "who": "Nāgārjuna",
+   "cite": "eoreader7 native/organs/nagarjuna.js (line not located: the module's wording changed after the quote was copied)",
+   "translit": "pratītyasamutpāda",
+   "gloss": "dependent arising",
+   "script": "प्रतीत्यसमुत्पाद",
+   "origCite": "eoreader7 native/organs/nagarjuna.js (transliteration named in the header; line not re-verified after the move)",
+   "need": "Mūlamadhyamakakārikā on pratītyasamutpāda — Sanskrit + English",
+   "located": false
+  },
+  {
+   "q": "a slot has NO own-being",
+   "who": "Nāgārjuna",
+   "cite": "eoreader7 native/organs/nagarjuna.js (line not located: the module's wording changed after the quote was copied)",
+   "translit": "prasaṅga",
+   "gloss": "testing a filling by its consequences",
+   "script": "प्रसङ्ग",
+   "origCite": "eoreader7 native/organs/nagarjuna.js (transliteration named in the header; line not re-verified after the move)",
+   "need": "Mūlamadhyamakakārikā on pratītyasamutpāda — Sanskrit + English",
+   "located": false
+  },
+  {
+   "q": "it may nominate, never decide",
+   "who": "Parmenides",
+   "cite": "eoreader7 native/organs/parmenides.js:11",
+   "translit": "doxa",
+   "gloss": "the way of seeming — how a thing appears, refused outright",
+   "script": "δόξα",
+   "origCite": "eoreader7 native/organs/parmenides.js (transliteration named in the header; line not re-verified after the move)",
+   "need": "Parmenides' poem, the fragments (DK B1–B8) — Greek + English",
+   "located": true
+  },
+  {
+   "q": "A dead connection is measured, re-zeroed, and recorded, never assumed.",
+   "who": "Heimdall",
+   "cite": "the-fold heimdall-client.js:4-5",
+   "translit": "Bifröst",
+   "gloss": "the bridge Heimdall watches",
+   "origCite": "the-fold heimdall-client.js (transliteration named in the header; line not re-verified after the move)",
+   "need": "Grímnismál / Gylfaginning on Bifröst — Old Norse + English",
+   "located": true
+  },
+  {
+   "q": "A dead watcher is the one failure the watcher cannot report itself.",
+   "who": "Solon",
+   "cite": "eoreader7 native/organs/solon.js:88",
+   "translit": "the Athenian lawgiver",
+   "gloss": "asked for the best constitution",
+   "origCite": "eoreader7 native/organs/solon.js (transliteration named in the header; line not re-verified after the move)",
+   "need": "Solon's own fragments (via Plutarch's Life of Solon) — Greek + English",
+   "located": true
+  },
+  {
+   "q": "EVA probes before it convicts; every verdict names its evidence.",
+   "who": "Solon",
+   "cite": "eoreader7 native/organs/solon.js:98",
+   "translit": "seisáchtheia",
+   "gloss": "the shaking off of burdens",
+   "script": "σεισάχθεια",
+   "origCite": "handle",
+   "need": "Solon's own fragments (via Plutarch's Life of Solon) — Greek + English",
+   "located": true
+  },
+  {
+   "q": "The regulator is part of the regulated",
+   "who": "Solon",
+   "cite": "eoreader7 native/organs/solon.js:104",
+   "need": "Solon's own fragments (via Plutarch's Life of Solon) — Greek + English",
+   "located": true
+  },
+  {
+   "q": "claims as norms in a hierarchy, conflicts resolved by precedence",
+   "who": "Kelsen",
+   "cite": "eoreader7 native/organs/solon.js:31-32",
+   "translit": "lex specialis, lex posterior",
+   "gloss": "the specific law, then the later law",
+   "origCite": "eoreader7 native/organs/solon.js (transliteration named in the header; line not re-verified after the move)",
+   "need": "Kelsen, Reine Rechtslehre — German + English",
+   "located": true
+  },
+  {
+   "q": "Ranke: the agent that chases a claim to its primary source.",
+   "who": "Ranke",
+   "cite": "eoreader7 native/organs/ranke.js:1",
+   "translit": "Quellenkritik",
+   "gloss": "the account is judged by the document it stands on",
+   "origCite": "eoreader7 ranke.js:112",
+   "need": "Ranke's own 1824 preface — German + English",
+   "located": true
+  },
+  {
+   "q": "catches what the small reader missed",
+   "who": "Lavar",
+   "cite": "eoreader7 LAVAR.md:40",
+   "translit": "a grader, a reviser, and eventually a spot-checker",
+   "gloss": "what LaVar is, in the charter's own words",
+   "origCite": "eoreader7 LAVAR.md:29",
+   "need": "no original source: LaVar is this project's own charter",
+   "located": true
+  },
+  {
+   "q": "Wilson may descend, never redefine",
+   "who": "Wilson",
+   "cite": "eoreader7 LAVAR.md:363",
+   "translit": "the archon of the swarm",
+   "gloss": "the evolutionary swarm-storm of reading",
+   "origCite": "eoreader7 LAVAR.md:330",
+   "need": "the handle's own source is not stated in either repo — unknown",
+   "located": true
+  }
+ ]
+}
